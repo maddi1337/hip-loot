@@ -1,5 +1,5 @@
 package-as: HIP_Loot_Priority
 
 ignore:
-    - Scripts 
-    - README.md    
+    - tag.sh 
+    - README.md
