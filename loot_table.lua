@@ -18,7 +18,7 @@ hip_loot_table = {
 {["loot_id"] = "21707", ["loot_name"] = "Ring of Swarming Thought", ["prio"] = " Prio: Kendy > "},
 {["loot_id"] = "21814", ["loot_name"] = "Breastplate of Annihilation", ["prio"] = " Prio: Arthemius (2) > Ragefire(3) > Maddi(5) > Seyt(6) > Nirenah > "},
 {["loot_id"] = "21701", ["loot_name"] = "Cloak of Concentrated Hatred", ["prio"] = " Prio: Hamma (3) > Cammy (5) >  Jomo (2) > Ragefire(6) > Alvaroh (?) > "},
-{["loot_id"] = "21688", ["loot_name"] = "Boots of the Fallen Hero", ["prio"] = " Prio: Nirenah > "},
+{["loot_id"] = "21688", ["loot_name"] = "Boots of the Fallen Hero", ["prio"] = " Prio: "},
 {["loot_id"] = "21690", ["loot_name"] = "Angelista's Charm", ["prio"] = " Prio: Enymen > Ilarion > Palas? > "},
 {["loot_id"] = "21686", ["loot_name"] = "Mantle of Phrenic Power", ["prio"] = " Prio: Kendy > "},
 {["loot_id"] = "21603", ["loot_name"] = "Wand of Qiraji Nobility", ["prio"] = " Prio: Ester > Varrish > Vulkania > Baus > Greun > "},
