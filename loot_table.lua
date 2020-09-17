@@ -33,7 +33,7 @@ hip_loot_table = {
 {["loot_id"] = "21673", ["loot_name"] = "Silithid Claw", ["prio"] = " Prio: Flüffel (5) > Elyriel (5) > "},
 {["loot_id"] = "21674", ["loot_name"] = "Gauntlets of Steadfast Determination", ["prio"] = " Prio: Nirenah > Kruzade > "},
 {["loot_id"] = "21676", ["loot_name"] = "Leggings of the Festering Swarm", ["prio"] = " Prio: Talatro > Baus > Ester > Kendy > Vulkania > "},
-{["loot_id"] = "21650", ["loot_name"] = "Ancient Qiraji Ripper", ["prio"] = " Prio: Cammy (1) > Maddi(2) > Nirenah > Ragnoz > Ailenya (4) > "},
+{["loot_id"] = "21650", ["loot_name"] = "Ancient Qiraji Ripper", ["prio"] = " Prio: Cammy (1) > Ragnoz > Nirenah > Ailenya (4) > Alvaroh (15) > "},
 {["loot_id"] = "21663", ["loot_name"] = "Robes of the Guardian Saint", ["prio"] = " Prio: Ronerva > If > Anyph > Pvpgott > Para > "},
 {["loot_id"] = "21664", ["loot_name"] = "Barbed Choker", ["prio"] = " Prio: Wurm(6) > Seyt(2) > Thranng(8) > Maddi(8) > Arthemius (10) > "},
 {["loot_id"] = "21651", ["loot_name"] = "Scaled Sand Reaver Leggings", ["prio"] = " Prio: Ragefire > "},
