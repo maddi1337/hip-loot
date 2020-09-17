@@ -36,6 +36,7 @@ hip_loot_table = {
 {["loot_id"] = "21650", ["loot_name"] = "Ancient Qiraji Ripper", ["prio"] = " Prio: Cammy (1) > Maddi(2) > Nirenah > Ragnoz > Ailenya (4) > "},
 {["loot_id"] = "21663", ["loot_name"] = "Robes of the Guardian Saint", ["prio"] = " Prio: Ronerva > If > Anyph > Pvpgott > Para > "},
 {["loot_id"] = "21664", ["loot_name"] = "Barbed Choker", ["prio"] = " Prio: Wurm(6) > Seyt(2) > Thranng(8) > Maddi(8) > Arthemius (10) > "},
+{["loot_id"] = "21651", ["loot_name"] = "Scaled Sand Reaver Leggings", ["prio"] = " Prio: Ragefire > "},
 {["loot_id"] = "21677", ["loot_name"] = "Ring of the Qiraji Fury", ["prio"] = " Prio: Seyt(1) > Wurm(5) > Ragefire(7) > Maddi(6) > Arthemius (5) > "},
 {["loot_id"] = "22399", ["loot_name"] = "Idol of Health", ["prio"] = " Prio: If > Pvpgott > "},
 {["loot_id"] = "21617", ["loot_name"] = "Wasphide Gauntlets", ["prio"] = " Prio: Ronerva > Pvpgott > "},
