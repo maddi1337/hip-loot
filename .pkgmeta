@@ -1,6 +1,1 @@
 package-as: HIP_Loot_Priority
-
-
-ignore:
-README.md
-tag.sh
