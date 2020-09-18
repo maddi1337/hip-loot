@@ -1,7 +1,7 @@
 hip_loot_table = {
 
 --### FULL LOOT PRIO HIP #####
-{["loot_id"] = "21837", ["loot_name"] = "Anubisath Warhammer", ["prio"] = " Prio: Ragnoz > Wurm(8) > Maddi(12) > Arthemius (7) > Hamma (5) > "},
+{["loot_id"] = "21837", ["loot_name"] = "Anubisath Warhammer", ["prio"] = " Prio: Wurm(8) > Maddi(12) > Arthemius (7) > Hamma (5) > Nirenah > "},
 {["loot_id"] = "21836", ["loot_name"] = "Ritssyn's Ring of Chaos ", ["prio"] = " Prio: Baus  > Ester > Hankmoody > Greun > Talatro > "},
 {["loot_id"] = "21891", ["loot_name"] = "Shard of the Fallen Star ", ["prio"] = " Prio: Kendy > "},
 {["loot_id"] = "20928", ["loot_name"] = "Qiraji Bindings of Command", ["prio"] = " Prio: Arthemius (11) > Cammy(7) >  Hamma(6) > Ailenya(6) >  Jomo(10) > "},
