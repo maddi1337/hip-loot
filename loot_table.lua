@@ -47,7 +47,7 @@ hip_loot_table = {
 {["loot_id"] = "21600", ["loot_name"] = "Boots of Epiphany", ["prio"] = " Prio: Kendy > (Methy) > "},
 {["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Mortal (13) > Ailenya (12) > Cammy (12) > Hamma (14) > "},
 {["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Anyph > Ronerva > Para > Pvpgott > (Methy) > "},
-#ERROR!
+{["loot_id"] = "21608", ["loot_name"] = "Amulet of Vek'nilash", ["prio"] = " Prio: Starbuzz > Phizzy > Baus > Cz > Hankmoody > "},
 {["loot_id"] = "21609", ["loot_name"] = "Regenerating Belt of Vek'nilash", ["prio"] = " Prio: Ronerva > Pvpgott > If > "},
 {["loot_id"] = "21610", ["loot_name"] = "Wormscale Blocker", ["prio"] = " Prio: Tororin > Moon > Para > "},
 {["loot_id"] = "21615", ["loot_name"] = "Don Rigoberto's Lost Hat", ["prio"] = " Prio: Swotty > Ilarion > Elfierde > Enymen > Anyph > "},
