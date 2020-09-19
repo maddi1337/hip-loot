@@ -63,7 +63,7 @@ hip_loot_table = {
 {["loot_id"] = "21586", ["loot_name"] = "Belt of Never-ending Agony", ["prio"] = " Prio: Hamma (1) > Alvaroh (2) > Cammy (3) > VodkaO (3) > Mortal (3) > "},
 {["loot_id"] = "21596", ["loot_name"] = "Ring of the Godslayer", ["prio"] = " Prio: Hayze > Elyriel (4) > "},
 {["loot_id"] = "21839", ["loot_name"] = "Scepter of the False Prophet", ["prio"] = " Prio: Elfierde > Para > Ronerva > Anyph > (Methy) > "},
-{["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Hankmoody > Cz > Talatro > Baus > Varrish > "},
+{["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Hankmoody > Cz > Talatro > Varrish > Starbuzz > "},
 {["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Varrish > Hankmoody > Baus > Vulkania > Greun > "},
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Kruzade > Hayze > Ragnoz > Nirenah > "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
