@@ -45,7 +45,7 @@ hip_loot_table = {
 {["loot_id"] = "21598", ["loot_name"] = "Royal Qiraji Belt", ["prio"] = " Prio: Nirenah > Kruzade > Hayze > "},
 {["loot_id"] = "21597", ["loot_name"] = "Royal Scepter of Vek'lor", ["prio"] = " Prio: Vulkania > Cz > Starbuzz > Greun > Baus > "},
 {["loot_id"] = "21600", ["loot_name"] = "Boots of Epiphany", ["prio"] = " Prio: Kendy > (Methy) > "},
-{["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Mortal (13) > Ailenya (12) > Cammy (12) > Hamma (14) > "},
+{["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Mortal (13) > Ailenya (12) > Cammy (12) > Hamma (14) > VodkaO (?) > "},
 {["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Anyph > Ronerva > Para > Pvpgott > (Methy) > "},
 {["loot_id"] = "21608", ["loot_name"] = "Amulet of Vek'nilash", ["prio"] = " Prio: Starbuzz > Phizzy > Baus > Cz > Hankmoody > "},
 {["loot_id"] = "21609", ["loot_name"] = "Regenerating Belt of Vek'nilash", ["prio"] = " Prio: Ronerva > Pvpgott > If > "},
