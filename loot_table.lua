@@ -27,7 +27,7 @@ hip_loot_table = {
 {["loot_id"] = "21666", ["loot_name"] = "Sartura's Might", ["prio"] = " Prio: Ilarion > If > Moon > Tororin > Ronerva > "},
 {["loot_id"] = "21667", ["loot_name"] = "Legplates of Blazing Light", ["prio"] = " Prio: Para > (Methy) > Anyph > Moon > "},
 {["loot_id"] = "21669", ["loot_name"] = "Creeping Vine Helm", ["prio"] = " Prio: Ronerva > Pvpgott > "},
-{["loot_id"] = "21670", ["loot_name"] = "Badge of the Swarmguard", ["prio"] = " Prio: Flüffel (1) > Baldemar (1) > Wurm(7) > Seyt(8) > Maddi(10) > "},
+#ERROR!
 {["loot_id"] = "21672", ["loot_name"] = "Gloves of Enforcement", ["prio"] = " Prio: Hamma (2) > Alvaroh (5) > Ailenya (11) > (Krieger ohne ctun Hände) > Mortal (12) > "},
 {["loot_id"] = "21671", ["loot_name"] = "Robes of the Battleguard", ["prio"] = " Prio: Kendy > "},
 {["loot_id"] = "21673", ["loot_name"] = "Silithid Claw", ["prio"] = " Prio: Flüffel (5) > Elyriel (5) > "},
@@ -51,7 +51,7 @@ hip_loot_table = {
 {["loot_id"] = "21609", ["loot_name"] = "Regenerating Belt of Vek'nilash", ["prio"] = " Prio: Ronerva > Pvpgott > If > "},
 {["loot_id"] = "21610", ["loot_name"] = "Wormscale Blocker", ["prio"] = " Prio: Para > Tororin > Moon > "},
 {["loot_id"] = "21615", ["loot_name"] = "Don Rigoberto's Lost Hat", ["prio"] = " Prio: Swotty > Ilarion > Elfierde > Enymen > Anyph > "},
-{["loot_id"] = "23557", ["loot_name"] = "Larvae of the Great Worm", ["prio"] = " Prio: Wurm(3) > Seyt(4) > Mortal (9) > Arthemius (9) > Thranng (9) > "},
+#ERROR!
 {["loot_id"] = "23570", ["loot_name"] = "Jom Gabbar", ["prio"] = " Prio: Alvaroh (3) > Ailenya (3) > Cammy (4) > Seyt(7) > Mortal (14) > "},
 {["loot_id"] = "21221", ["loot_name"] = "Eye of C'thun", ["prio"] = " Prio: Starbuzz > Anyph > Greun > Baus > Cz > "},
 {["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Mortal (1) > Ninja > Hamma (20) > Cammy (20) >  VodkaO (4) > "},
