@@ -12,7 +12,7 @@ hip_loot_table = {
 {["loot_id"] = "20931", ["loot_name"] = "Skin of the Great Sandworm", ["prio"] = " Prio: "},
 {["loot_id"] = "20929", ["loot_name"] = "Carapace of the old God", ["prio"] = " Prio: Ailenya (9) > Cammy (9) > Kruzade > Wurm > Hamma (10) > "},
 {["loot_id"] = "20933", ["loot_name"] = "Husk of the Old God", ["prio"] = " Prio: Baus > Kendy > "},
-{["loot_id"] = "21232", ["loot_name"] = "Imperial Qiraji Armaments", ["prio"] = " Prio: Hayze > Mortal (4) > Ninjawodja > Hamma (3) >  VodkaO (2) > "},
+{["loot_id"] = "21232", ["loot_name"] = "Imperial Qiraji Armaments", ["prio"] = " Prio: Mortal (4) > Ninjawodja > Hayze > Hamma (3) >  VodkaO (2) > "},
 {["loot_id"] = "21237", ["loot_name"] = "Imperial Qiraji Regalia", ["prio"] = " Prio: Enymen > Pvpgott > Phizzy > Swotty > Talatro > "},
 {["loot_id"] = "21128", ["loot_name"] = "Staff of the Qiraji Prophets", ["prio"] = " Prio: Cz > Starbuzz > Kendy > "},
 {["loot_id"] = "21707", ["loot_name"] = "Ring of Swarming Thought", ["prio"] = " Prio: Kendy > "},
