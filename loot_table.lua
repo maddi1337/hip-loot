@@ -55,7 +55,7 @@ hip_loot_table = {
 {["loot_id"] = "23570", ["loot_name"] = "Jom Gabbar", ["prio"] = " Prio: Alvaroh (3) > Ailenya (3) > Cammy (4) > Seyt(7) > Mortal (14) > "},
 {["loot_id"] = "21221", ["loot_name"] = "Eye of C'thun", ["prio"] = " Prio: Anyph > Greun > Baus > Cz > (Methy) > "},
 {["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Mortal (1) > Ninja > Hamma (20) > Cammy (20) >  VodkaO (4) > "},
-{["loot_id"] = "21134", ["loot_name"] = "Dark Edge of Insanity", ["prio"] = " Prio: "},
+{["loot_id"] = "21134", ["loot_name"] = "Dark Edge of Insanity", ["prio"] = " Prio: Seyt(9) > Thranng (8) > "},
 {["loot_id"] = "21581", ["loot_name"] = "Gauntlets of Annihilation", ["prio"] = " Prio: Thranng (2) > Nirenah > Ragnoz > Kruzade > Hayze > "},
 {["loot_id"] = "21582", ["loot_name"] = "Grasp of the Old God", ["prio"] = " Prio: Para > Ronerva > If = Anyph > (Methy) > Ilarion > "},
 {["loot_id"] = "21583", ["loot_name"] = "Cloak of Clarity", ["prio"] = " Prio: Elfierde > Pvpgott > Anyph > If = Para > Enymen > "},
