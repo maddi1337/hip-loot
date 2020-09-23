@@ -3,3 +3,4 @@ package-as: HIP_Loot_Priority
 ignore:
     - tag.sh 
     - README.md
+    - push.sh	
