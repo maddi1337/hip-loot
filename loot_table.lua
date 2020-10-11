@@ -4,7 +4,7 @@ hip_loot_table = {
 {["loot_id"] = "21837", ["loot_name"] = "Anubisath Warhammer", ["prio"] = " Prio: Wurm(9) > Maddi(12) > Hamma (5) > Nirenah > Kruzade > "},
 {["loot_id"] = "21836", ["loot_name"] = "Ritssyn's Ring of Chaos ", ["prio"] = " Prio: Greun > Ester > Hankmoody > Baus > Talatro > "},
 {["loot_id"] = "21891", ["loot_name"] = "Shard of the Fallen Star ", ["prio"] = " Prio: "},
-{["loot_id"] = "20928", ["loot_name"] = "Qiraji Bindings of Command", ["prio"] = " Prio: Mortal(11) > Maddi(19) > Wurm(19)  > Ailenya (6) > Hamma(7) > "},
+{["loot_id"] = "20928", ["loot_name"] = "Qiraji Bindings of Command", ["prio"] = " Prio: Mortal(11) > Ragnoz > Wurm(19)  > Ailenya (6) > Hamma(7) > "},
 {["loot_id"] = "20932", ["loot_name"] = "Qiraji Bindings of Dominance", ["prio"] = " Prio: Baus > "},
 {["loot_id"] = "20930", ["loot_name"] = "Vek'lor's Diadem", ["prio"] = " Prio:  VodkaO (4) > Jomo (8) > "},
 {["loot_id"] = "20926", ["loot_name"] = "Vek'nilash's Circlet", ["prio"] = " Prio: Nitilas > Maddi(11) > Ilarion > Vulkania > "},
