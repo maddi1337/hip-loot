@@ -13,7 +13,7 @@ hip_loot_table = {
 {["loot_id"] = "20929", ["loot_name"] = "Carapace of the old God", ["prio"] = " Prio: Kruzade > Hamma (10) > Maddi(19) > VodkaO (7) > Jomo (9) > "},
 {["loot_id"] = "20933", ["loot_name"] = "Husk of the Old God", ["prio"] = " Prio: Baus > "},
 {["loot_id"] = "21232", ["loot_name"] = "Imperial Qiraji Armaments", ["prio"] = " Prio: Mortal (4) > Kruzade > Hamma (3) >  VodkaO (2) > Jomo > "},
-{["loot_id"] = "21237", ["loot_name"] = "Imperial Qiraji Regalia", ["prio"] = " Prio: Enymen > Talatro > Hayze > Ragnoz  > Kruzade > "},
+{["loot_id"] = "21237", ["loot_name"] = "Imperial Qiraji Regalia", ["prio"] = " Prio: Enymen > Ficksy > Talatro > Hayze > Ragnoz  > "},
 {["loot_id"] = "21128", ["loot_name"] = "Staff of the Qiraji Prophets", ["prio"] = " Prio: Cz > Starbuzz > Kendy > "},
 {["loot_id"] = "21707", ["loot_name"] = "Ring of Swarming Thought", ["prio"] = " Prio: "},
 {["loot_id"] = "21814", ["loot_name"] = "Breastplate of Annihilation", ["prio"] = " Prio: Maddi(5) > Seyt(6) > Ragnoz > Nirenah > Kruzade > "},
