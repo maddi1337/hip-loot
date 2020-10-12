@@ -55,7 +55,7 @@ hip_loot_table = {
 {["loot_id"] = "21615", ["loot_name"] = "Don Rigoberto's Lost Hat", ["prio"] = " Prio: Ilarion > Elfierde > Enymen > Toro > If > "},
 {["loot_id"] = "23557", ["loot_name"] = "Larvae of the Great Worm", ["prio"] = " Prio: Seyt(4) > Mortal (9) > Maddi (9) > Thranng (9) > Cammy (11) > "},
 {["loot_id"] = "23570", ["loot_name"] = "Jom Gabbar", ["prio"] = " Prio: Alvaroh (3) > Ailenya (3) > Cammy (4) > Seyt(7) > Mortal (14) > "},
-{["loot_id"] = "21221", ["loot_name"] = "Eye of C'thun", ["prio"] = " Prio: (Methy) > Ester > Varrish > Pvpgott > "},
+{["loot_id"] = "21221", ["loot_name"] = "Eye of C'thun", ["prio"] = " Prio: (Methy) > Ester > Varrish > Pvpgott > Phizzy > "},
 {["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Mortal (1) > Nirenah > Ninja > Hamma (20) > Cammy (20) > "},
 {["loot_id"] = "21134", ["loot_name"] = "Dark Edge of Insanity", ["prio"] = " Prio: Seyt(9) > Thranng (8) > "},
 {["loot_id"] = "21581", ["loot_name"] = "Gauntlets of Annihilation", ["prio"] = " Prio: Ragnoz > Nirenah > Kruzade > Hayze > "},
