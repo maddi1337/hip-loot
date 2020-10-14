@@ -7,7 +7,7 @@ hip_loot_table = {
 {["loot_id"] = "20928", ["loot_name"] = "Qiraji Bindings of Command", ["prio"] = " Prio: Mortal(11) > Wurm(19)  > Ailenya (6) > Hamma(7) > Alvaroh > "},
 {["loot_id"] = "20932", ["loot_name"] = "Qiraji Bindings of Dominance", ["prio"] = " Prio: Baus > "},
 {["loot_id"] = "20930", ["loot_name"] = "Vek'lor's Diadem", ["prio"] = " Prio:  VodkaO (4) > Jomo (8) > "},
-{["loot_id"] = "20926", ["loot_name"] = "Vek'nilash's Circlet", ["prio"] = " Prio: Nitilas > Maddi(11) > Ilarion > Vulkania > "},
+{["loot_id"] = "20926", ["loot_name"] = "Vek'nilash's Circlet", ["prio"] = " Prio: Maddi(11) > Ilarion > Vulkania > "},
 {["loot_id"] = "20927", ["loot_name"] = "Ouro's Intact Hide", ["prio"] = " Prio: Kruzade > Ailenya (8) > Mortal(7) > Hamma(9) > Cammy(10) > "},
 {["loot_id"] = "20931", ["loot_name"] = "Skin of the Great Sandworm", ["prio"] = " Prio: "},
 {["loot_id"] = "20929", ["loot_name"] = "Carapace of the old God", ["prio"] = " Prio: Kruzade > Hamma (10) > Maddi(19) > VodkaO (7) > Jomo (9) > "},
