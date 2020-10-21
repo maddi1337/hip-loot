@@ -22,7 +22,7 @@ hip_loot_table = {
 {["loot_id"] = "21690", ["loot_name"] = "Angelista's Charm", ["prio"] = " Prio: Ilarion > Palas? > "},
 {["loot_id"] = "21686", ["loot_name"] = "Mantle of Phrenic Power", ["prio"] = " Prio: "},
 {["loot_id"] = "21603", ["loot_name"] = "Wand of Qiraji Nobility", ["prio"] = " Prio: Ester > Varrish > Vulkania > Baus > Greun > "},
-{["loot_id"] = "21694", ["loot_name"] = "Ternary Mantle", ["prio"] = " Prio: Enymen > "},
+{["loot_id"] = "21694", ["loot_name"] = "Ternary Mantle", ["prio"] = " Prio: Enymen > Blargus > "},
 {["loot_id"] = "21695", ["loot_name"] = "Angelista's Touch", ["prio"] = " Prio: Ragnoz > "},
 {["loot_id"] = "21666", ["loot_name"] = "Sartura's Might", ["prio"] = " Prio: Tororin > If > Ronerva > Elfierde > Pvpgott = Anyph = Para = Enymen =  Methy > "},
 {["loot_id"] = "21667", ["loot_name"] = "Legplates of Blazing Light", ["prio"] = " Prio: Moon > "},
