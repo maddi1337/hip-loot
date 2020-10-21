@@ -59,7 +59,7 @@ hip_loot_table = {
 {["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Mortal (1) > Nirenah > Ninja > Hamma (20) > Cammy (20) > "},
 {["loot_id"] = "21134", ["loot_name"] = "Dark Edge of Insanity", ["prio"] = " Prio: Seyt(9) > Thranng (8) > "},
 {["loot_id"] = "21581", ["loot_name"] = "Gauntlets of Annihilation", ["prio"] = " Prio: Ragnoz > Hokanu (1) > Nirenah > Kruzade > Hayze > "},
-{["loot_id"] = "21582", ["loot_name"] = "Grasp of the Old God", ["prio"] = " Prio: If = Anyph > Methy > Ilarion > Elfierde > Pvpgott > "},
+{["loot_id"] = "21582", ["loot_name"] = "Grasp of the Old God", ["prio"] = " Prio: If = Anyph > Ilarion > Elfierde > Pvpgott > Enymen > "},
 {["loot_id"] = "21583", ["loot_name"] = "Cloak of Clarity", ["prio"] = " Prio: Elfierde > Pvpgott > Anyph > If = Para > Enymen > "},
 {["loot_id"] = "21585", ["loot_name"] = "Dark Storm Gauntlets", ["prio"] = " Prio: Starbuzz > Talatro > Nitilas > Phizzy > Greun > "},
 {["loot_id"] = "21586", ["loot_name"] = "Belt of Never-ending Agony", ["prio"] = " Prio: Cammy (3) > Mortal (3) > Ailenya (5) > VodkaO (3) > Jomo (3) > "},
