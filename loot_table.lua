@@ -43,6 +43,8 @@ hip_loot_table = {
 {["loot_id"] = "22399", ["loot_name"] = "Idol of Health", ["prio"] = " Prio: If > Pvpgott > "},
 {["loot_id"] = "21617", ["loot_name"] = "Wasphide Gauntlets", ["prio"] = " Prio: Pvpgott > "},
 {["loot_id"] = "21618", ["loot_name"] = "Hive Defiler Wristguards", ["prio"] = " Prio: Wurm(4) > Thranng(6) > Nirenah > Ragnoz > Kruzade > "},
+{["loot_id"] = "21619", ["loot_name"] = "Gloves of the Messiah", ["prio"] = " Prio: Enymen > "},
+{["loot_id"] = "21620", ["loot_name"] = "Ring of the Martyr", ["prio"] = " Prio: Pvpgott > Tororin > Methy > Elfierde > Anyph > "},
 {["loot_id"] = "21621", ["loot_name"] = "Cloak of the Golden Hive", ["prio"] = " Prio: Kruzade > Nirenah > Ragnoz > "},
 {["loot_id"] = "21598", ["loot_name"] = "Royal Qiraji Belt", ["prio"] = " Prio: Kruzade > Hayze > "},
 {["loot_id"] = "21597", ["loot_name"] = "Royal Scepter of Vek'lor", ["prio"] = " Prio: Vulkania > Cz > Starbuzz > Greun > Baus > "},
