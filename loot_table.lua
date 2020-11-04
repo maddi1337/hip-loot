@@ -27,7 +27,7 @@ hip_loot_table = {
 {["loot_id"] = "21666", ["loot_name"] = "Sartura's Might", ["prio"] = " Prio: Tororin > If > Ronerva > Elfierde > Pvpgott = Anyph = Para = Enymen =  Methy > "},
 {["loot_id"] = "21667", ["loot_name"] = "Legplates of Blazing Light", ["prio"] = " Prio: Moon > "},
 {["loot_id"] = "21669", ["loot_name"] = "Creeping Vine Helm", ["prio"] = " Prio: Pvpgott > "},
-{["loot_id"] = "21670", ["loot_name"] = "Badge of the Swarmguard", ["prio"] = " Prio: Wurm(7) > Seyt(8) > Maddi(10) > Hamma (13) > "},
+{["loot_id"] = "21670", ["loot_name"] = "Badge of the Swarmguard", ["prio"] = " Prio: Flüffel > Wurm(7) > Seyt(8) > Maddi(10) > Hamma (13) > "},
 {["loot_id"] = "21672", ["loot_name"] = "Gloves of Enforcement", ["prio"] = " Prio: Hamma (2) > Alvaroh (5) > Ailenya (11) > (Krieger ohne ctun Hände) > Mortal (12) > "},
 {["loot_id"] = "21671", ["loot_name"] = "Robes of the Battleguard", ["prio"] = " Prio: "},
 {["loot_id"] = "21673", ["loot_name"] = "Silithid Claw", ["prio"] = " Prio: Flüffel (5) > Elyriel (5) > "},
