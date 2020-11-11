@@ -49,7 +49,7 @@ hip_loot_table = {
 {["loot_id"] = "21620", ["loot_name"] = "Ring of the Martyr", ["prio"] = " Prio: Pvpgott > Tororin > Methy > Elfierde > Anyph > "},
 {["loot_id"] = "21621", ["loot_name"] = "Cloak of the Golden Hive", ["prio"] = " Prio: Nirenah > Ragnoz > "},
 {["loot_id"] = "21598", ["loot_name"] = "Royal Qiraji Belt", ["prio"] = " Prio: Kruzade > Hayze > "},
-{["loot_id"] = "21597", ["loot_name"] = "Royal Scepter of Vek'lor", ["prio"] = " Prio: Vulkania > Cz > Starbuzz > Greun > "},
+{["loot_id"] = "21597", ["loot_name"] = "Royal Scepter of Vek'lor", ["prio"] = " Prio: Vulkania > Cz > Starbuzz > Greun > Talatro > "},
 {["loot_id"] = "21600", ["loot_name"] = "Boots of Epiphany", ["prio"] = " Prio: Methy > "},
 {["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Ronerva > Møøn > Hamma (14) > VodkaO (?) > Wurm (?) > "},
 {["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Anyph > Methy > Pvpgott > Para > Toro > "},
