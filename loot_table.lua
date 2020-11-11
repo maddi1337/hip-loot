@@ -53,7 +53,7 @@ hip_loot_table = {
 {["loot_id"] = "21600", ["loot_name"] = "Boots of Epiphany", ["prio"] = " Prio: Methy > "},
 {["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Ronerva > Møøn > Hamma (14) > VodkaO (?) > Wurm (?) > "},
 {["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Anyph > Methy > Pvpgott > Para > Toro > "},
-{["loot_id"] = "21608", ["loot_name"] = "Amulet of Vek'nilash", ["prio"] = " Prio: Cz > Hankmoody > Greun > Kendy > Vulkania > "},
+{["loot_id"] = "21608", ["loot_name"] = "Amulet of Vek'nilash", ["prio"] = " Prio: Hankmoody > Greun > Nitilas > Cz > Kendy > "},
 {["loot_id"] = "21609", ["loot_name"] = "Regenerating Belt of Vek'nilash", ["prio"] = " Prio: Pvpgott > If > "},
 {["loot_id"] = "21610", ["loot_name"] = "Wormscale Blocker", ["prio"] = " Prio: Methy > Anyph > "},
 {["loot_id"] = "21615", ["loot_name"] = "Don Rigoberto's Lost Hat", ["prio"] = " Prio: Elfierde > Enymen > Blargus > Toro > If > "},
@@ -70,7 +70,7 @@ hip_loot_table = {
 {["loot_id"] = "21596", ["loot_name"] = "Ring of the Godslayer", ["prio"] = " Prio: Wurm > Maddi > "},
 {["loot_id"] = "21839", ["loot_name"] = "Scepter of the False Prophet", ["prio"] = " Prio: Elfierde > Para > Anyph > Methy > Tororin > "},
 {["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Hankmoody > Cz > Talatro > Starbuzz > Ester > "},
-{["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Greun > Cz > Starbuzz > Kendy > Talatro > "},
+{["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Greun > Starbuzz > Nitilas > Kendy > Talatro > "},
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Ragnoz > Nirenah > "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "20637", ["loot_name"] = "Acid Inscribed Pauldrons", ["prio"] = " Prio: Notes Not Found",},
