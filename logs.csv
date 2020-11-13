@@ -1,17 +1,17 @@
---2020-11-13 20:00:03--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
+--2020-11-13 21:00:04--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
 Resolving docs.google.com (docs.google.com)... 172.217.22.206, 2a00:1450:4016:800::200e
 Connecting to docs.google.com (docs.google.com)|172.217.22.206|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/809cc65il5q0o1k10etg3gsdhc/1605294000000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
+Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/gck97cbvfbooaqq9vph8ua9nn0/1605297600000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
 Warning: wildcards not supported in HTTP.
---2020-11-13 20:00:04--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/809cc65il5q0o1k10etg3gsdhc/1605294000000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
-Resolving doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)... 172.217.22.193, 2a00:1450:4016:800::2001
-Connecting to doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)|172.217.22.193|:443... connected.
+--2020-11-13 21:00:05--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/gck97cbvfbooaqq9vph8ua9nn0/1605297600000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
+Resolving doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)... 172.217.22.225, 2a00:1450:4016:801::2001
+Connecting to doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)|172.217.22.225|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘2content.tsv’
 
-     0K .......... .........                                    948K=0.02s
+     0K .......... .........                                   1.12M=0.02s
 
-2020-11-13 20:00:07 (948 KB/s) - ‘2content.tsv’ saved [20128]
+2020-11-13 21:00:06 (1.12 MB/s) - ‘2content.tsv’ saved [20128]
 
