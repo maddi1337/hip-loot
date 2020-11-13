@@ -72,7 +72,7 @@ hip_loot_table = {
 {["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Cz > Talatro > Starbuzz > Ester > Nitilas > "},
 {["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Greun > Starbuzz > Nitilas > Kendy > Talatro > "},
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Ragnoz > Nirenah > "},
-{["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: "},
+{["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: test1 > test2 > test3 > "},
 {["loot_id"] = "23069", ["loot_name"] = "Necro-Knight's Garb", ["prio"] = " Prio: "},
 {["loot_id"] = "23226", ["loot_name"] = "Ghoul Skin Tunic", ["prio"] = " Prio: "},
 {["loot_id"] = "23663", ["loot_name"] = "Girdle of Elemental Fury", ["prio"] = " Prio: "},
@@ -81,7 +81,7 @@ hip_loot_table = {
 {["loot_id"] = "23237", ["loot_name"] = "Ring of the Eternal Flame", ["prio"] = " Prio: "},
 {["loot_id"] = "23238", ["loot_name"] = "Stygian Buckler", ["prio"] = " Prio: "},
 {["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: "},
-{["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: test > text > "},
+{["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: "},
 {["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: "},
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: "},
 {["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: "},
@@ -204,7 +204,7 @@ hip_loot_table = {
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: "},
 {["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: "},
 {["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: "},
-{["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: test > texr > "},-- #############################
+{["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "20637", ["loot_name"] = "Acid Inscribed Pauldrons", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "19345", ["loot_name"] = "Aegis of Preservation", ["prio"] = " Prio: Priest Only",},
