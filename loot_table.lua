@@ -72,7 +72,11 @@ hip_loot_table = {
 {["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Cz > Talatro > Starbuzz > Ester > Nitilas > "},
 {["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Greun > Starbuzz > Nitilas > Kendy > Talatro > "},
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Ragnoz > Nirenah > "},
+<<<<<<< HEAD
 {["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: test2 > testx > test > test > "},
+=======
+{["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: test1 > test2 > test3 > "},
+>>>>>>> 14952ebb937aadced8c69277667665243e4473b2
 {["loot_id"] = "23069", ["loot_name"] = "Necro-Knight's Garb", ["prio"] = " Prio: "},
 {["loot_id"] = "23226", ["loot_name"] = "Ghoul Skin Tunic", ["prio"] = " Prio: "},
 {["loot_id"] = "23663", ["loot_name"] = "Girdle of Elemental Fury", ["prio"] = " Prio: "},
