@@ -57,7 +57,7 @@
 {["loot_id"] = "23557", ["loot_name"] = "Larvae of the Great Worm", ["prio"] = " Prio: Seyt(4) > Thranng (9) > Cammy (11) > Hamma (12) > Alvaroh (?) > "},
 {["loot_id"] = "23570", ["loot_name"] = "Jom Gabbar", ["prio"] = " Prio: Alvaroh (3) > Ailenya (3) > Cammy (4) > Seyt(7) > Nirenah > "},
 {["loot_id"] = "21221", ["loot_name"] = "Eye of C'thun", ["prio"] = " Prio: If > Alvaroh (9) > Kruzade > Hamma (11) > Hayze > "},
-{["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Nirenah > Ninja > Exc > Hamma (20) > Cammy (20) > "},
+{["loot_id"] = "21126", ["loot_name"] = "Death's Sting", ["prio"] = " Prio: Ninja > Exc >  VodkaO (4) > Hamma (20) > Cammy (20) > "},
 {["loot_id"] = "21134", ["loot_name"] = "Dark Edge of Insanity", ["prio"] = " Prio: Seyt(9) > Thranng (8) > Ragnoz > "},
 {["loot_id"] = "21581", ["loot_name"] = "Gauntlets of Annihilation", ["prio"] = " Prio: Ragnoz > Nirenah > Kruzade > Hayze > "},
 {["loot_id"] = "21582", ["loot_name"] = "Grasp of the Old God", ["prio"] = " Prio: Anyph > If > Ilarion > Elfierde > Pvpgott > "},
