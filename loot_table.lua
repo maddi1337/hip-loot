@@ -49,7 +49,7 @@
 {["loot_id"] = "21597", ["loot_name"] = "Royal Scepter of Vek'lor", ["prio"] = " Prio: Cz > Starbuzz > Greun > Talatro > Phizzy > "},
 {["loot_id"] = "21600", ["loot_name"] = "Boots of Epiphany", ["prio"] = " Prio: Methy > "},
 {["loot_id"] = "21602", ["loot_name"] = "Qiraji Execution Bracers", ["prio"] = " Prio: Ronerva > Møøn > Hamma (14) > Exc > VodkaO (?) > "},
-{["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Anyph > Methy > Pvpgott > Para > Toro > "},
+{["loot_id"] = "21604", ["loot_name"] = "Bracelets of Royal Redemption ", ["prio"] = " Prio: Methy > Pvpgott > Para > Toro > Ronerva > "},
 {["loot_id"] = "21608", ["loot_name"] = "Amulet of Vek'nilash", ["prio"] = " Prio: Hankmoody > Greun > Nitilas > Cz > Kendy > "},
 {["loot_id"] = "21609", ["loot_name"] = "Regenerating Belt of Vek'nilash", ["prio"] = " Prio: Pvpgott > If > "},
 {["loot_id"] = "21610", ["loot_name"] = "Wormscale Blocker", ["prio"] = " Prio: Anyph > "},
