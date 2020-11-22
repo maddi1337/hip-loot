@@ -1,17 +1,17 @@
---2020-11-22 05:00:03--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
+--2020-11-22 06:00:03--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
 Resolving docs.google.com (docs.google.com)... 172.217.23.14, 2a00:1450:4016:803::200e
 Connecting to docs.google.com (docs.google.com)|172.217.23.14|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/uf5ko8c9gvc3auvhmljm5lhc5g/1606017600000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
+Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/evvd9emb5i1uao4hv6he7afo7g/1606021200000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
 Warning: wildcards not supported in HTTP.
---2020-11-22 05:00:04--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/uf5ko8c9gvc3auvhmljm5lhc5g/1606017600000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
+--2020-11-22 06:00:03--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/evvd9emb5i1uao4hv6he7afo7g/1606021200000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
 Resolving doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)... 172.217.23.1, 2a00:1450:4016:803::2001
 Connecting to doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)|172.217.23.1|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘2content.tsv’
 
-     0K .......... .........                                   1.11M=0.02s
+     0K .......... .........                                   1.13M=0.02s
 
-2020-11-22 05:00:05 (1.11 MB/s) - ‘2content.tsv’ saved [20064]
+2020-11-22 06:00:04 (1.13 MB/s) - ‘2content.tsv’ saved [20064]
 
