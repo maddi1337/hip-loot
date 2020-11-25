@@ -1,17 +1,17 @@
---2020-11-25 00:00:03--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
-Resolving docs.google.com (docs.google.com)... 172.217.23.14, 2a00:1450:4016:803::200e
-Connecting to docs.google.com (docs.google.com)|172.217.23.14|:443... connected.
+--2020-11-25 01:00:03--  https://docs.google.com/spreadsheets/d/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ/export?format=tsv&gid=356540164
+Resolving docs.google.com (docs.google.com)... 172.217.23.78, 2a00:1450:4016:803::200e
+Connecting to docs.google.com (docs.google.com)|172.217.23.78|:443... connected.
 HTTP request sent, awaiting response... 307 Temporary Redirect
-Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/316kk959u8bv5b7tfv3on95ud8/1606258800000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
+Location: https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/46qm8pf7mc2h1mpdhkdn26bm00/1606262400000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164 [following]
 Warning: wildcards not supported in HTTP.
---2020-11-25 00:00:03--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/316kk959u8bv5b7tfv3on95ud8/1606258800000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
+--2020-11-25 01:00:04--  https://doc-0o-6o-sheets.googleusercontent.com/export/l5l039s6ni5uumqbsj9o11lmdc/46qm8pf7mc2h1mpdhkdn26bm00/1606262400000/115304066450495097343/*/1nzvrh5GzZoReQNvHqeA0ExIgfYsCS7437XNpexbIGiQ?format=tsv&gid=356540164
 Resolving doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)... 172.217.23.1, 2a00:1450:4016:803::2001
 Connecting to doc-0o-6o-sheets.googleusercontent.com (doc-0o-6o-sheets.googleusercontent.com)|172.217.23.1|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/tab-separated-values]
 Saving to: ‘2content.tsv’
 
-     0K .......... .........                                   1023K=0.02s
+     0K .......... .........                                   2.09M=0.009s
 
-2020-11-25 00:00:06 (1023 KB/s) - ‘2content.tsv’ saved [20064]
+2020-11-25 01:00:06 (2.09 MB/s) - ‘2content.tsv’ saved [20064]
 
