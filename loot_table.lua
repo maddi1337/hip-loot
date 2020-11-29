@@ -80,7 +80,7 @@ hip_loot_table = {
 {["loot_id"] = "23668", ["loot_name"] = "Leggings of the Grand Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "23237", ["loot_name"] = "Ring of the Eternal Flame", ["prio"] = " Prio: "},
 {["loot_id"] = "23238", ["loot_name"] = "Stygian Buckler", ["prio"] = " Prio: "},
-{["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: VodkaO (2) > "},
+{["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: VodkaO (2) > Flüffel (tbd) > "},
 {["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: Thranng(?) > Maddi(13) > Hayze(21) > "},
 {["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: "},
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: "},
@@ -205,7 +205,7 @@ hip_loot_table = {
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: "},
 {["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: "},
 {["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: "},
-{["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: "},-- #############################
+{["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: If (17) > "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "20637", ["loot_name"] = "Acid Inscribed Pauldrons", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "19345", ["loot_name"] = "Aegis of Preservation", ["prio"] = " Prio: Priest Only",},
