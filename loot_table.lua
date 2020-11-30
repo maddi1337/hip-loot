@@ -23,7 +23,7 @@ hip_loot_table = {
 {["loot_id"] = "21686", ["loot_name"] = "Mantle of Phrenic Power", ["prio"] = " Prio: "},
 {["loot_id"] = "21693", ["loot_name"] = "Guise of the Devourer", ["prio"] = " Prio: "},
 {["loot_id"] = "21680", ["loot_name"] = "Vest of Swift Execution", ["prio"] = " Prio: Møøn > "},
-{["loot_id"] = "21603", ["loot_name"] = "Wand of Qiraji Nobility", ["prio"] = " Prio: Ester > Vulkania > Greun > Cz > Talatro > "},
+{["loot_id"] = "21603", ["loot_name"] = "Wand of Qiraji Nobility", ["prio"] = " Prio: Ester > Greun > Cz > Talatro > Kendy > "},
 {["loot_id"] = "21694", ["loot_name"] = "Ternary Mantle", ["prio"] = " Prio: Enymen > "},
 {["loot_id"] = "21695", ["loot_name"] = "Angelista's Touch", ["prio"] = " Prio: "},
 {["loot_id"] = "21666", ["loot_name"] = "Sartura's Might", ["prio"] = " Prio: Tororin > If > Elfierde > Pvpgott = Anyph = Para = Enymen =  Methy > Moon > "},
