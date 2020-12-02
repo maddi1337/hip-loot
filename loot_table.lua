@@ -80,7 +80,7 @@ hip_loot_table = {
 {["loot_id"] = "23668", ["loot_name"] = "Leggings of the Grand Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "23237", ["loot_name"] = "Ring of the Eternal Flame", ["prio"] = " Prio: Kendy (8) > Ester (14) > Greun (15) > "},
 {["loot_id"] = "23238", ["loot_name"] = "Stygian Buckler", ["prio"] = " Prio: "},
-{["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: VodkaO (2) > Flüffel (tbd) > "},
+{["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: VodkaO (2) > Flüffel / Rogues (tbd) > "},
 {["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: Thranng(?) > Maddi(13) > Hayze(21) > "},
 {["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: "},
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: Para (7) > Toro (9) > Anyph (12) > If (9) > Flüffel (tbd) > "},
