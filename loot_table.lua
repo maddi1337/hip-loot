@@ -156,7 +156,7 @@ hip_loot_table = {
 {["loot_id"] = "23037", ["loot_name"] = "Ring of Spiritual Fervor", ["prio"] = " Prio: "},
 {["loot_id"] = "23042", ["loot_name"] = "Loatheb's Reflection", ["prio"] = " Prio: "},
 {["loot_id"] = "23039", ["loot_name"] = "The Eye of Nerub", ["prio"] = " Prio: "},
-{["loot_id"] = "22800", ["loot_name"] = "Brimstone Staff", ["prio"] = " Prio: "},
+{["loot_id"] = "22800", ["loot_name"] = "Brimstone Staff", ["prio"] = " Prio: Nitilas () > "},
 {["loot_id"] = "23017", ["loot_name"] = "Veil of Eclipse", ["prio"] = " Prio: "},
 {["loot_id"] = "23219", ["loot_name"] = "Girdle of the Mentor", ["prio"] = " Prio: Thranng(3) > Hayze(5) > Nirenah(8) > Ragefire(9) > Maddi(12) > "},
 {["loot_id"] = "23018", ["loot_name"] = "Signet of the Fallen Defender", ["prio"] = " Prio: Ronerva (4) > "},
