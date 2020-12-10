@@ -187,7 +187,7 @@ hip_loot_table = {
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Greun (2) > Hankmoody (2) > Starbuzz () > Phizzy (6) > Kendy (3) > "},
 {["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Elfierde (10) > Pvpgott (2) > If (7) > Enymen (2) > Anyph (17) > "},
 {["loot_id"] = "23043", ["loot_name"] = "The Face of Death", ["prio"] = " Prio: Hayze(4) > Kruzade(11) > Ragnoz(14) > Wurm(17) > "},
-{["loot_id"] = "23242", ["loot_name"] = "Claw of the Frost Wyrm", ["prio"] = " Prio: Hamma (13) > Alvaroh (tbd) > Cammy (tbd) > Ailenya(tbd) > "},
+{["loot_id"] = "23242", ["loot_name"] = "Claw of the Frost Wyrm", ["prio"] = " Prio: Flüffel (3) > Hamma (13) > Alvaroh (tbd) > Cammy (tbd) > Ailenya(tbd) > "},
 {["loot_id"] = "22520", ["loot_name"] = "The Phylactery of Kel'Thuzad", ["prio"] = " Prio: Maddi(6) > Wurm(12) > Ronerva (8) > Hayze(8) > Greun (10) > "},
 {["loot_id"] = "23057", ["loot_name"] = "Gem of Trapped Innocents", ["prio"] = " Prio: Nitilas (3) > Hankmoody (12) > Anyph (2) > Greun (7) > Cz (19) > "},
 {["loot_id"] = "23053", ["loot_name"] = "Stormrage's Talisman of Seething", ["prio"] = " Prio: Ragefire(6) > Thranng(6) > Maddi(8) > Wurm(9) > Seyt(11) > "},
