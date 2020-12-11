@@ -137,7 +137,7 @@ hip_loot_table = {
 {["loot_id"] = "23075", ["loot_name"] = "Death's Bargain", ["prio"] = " Prio: Anyph (15) > Toro (-) > Para (-) > "},
 {["loot_id"] = "22813", ["loot_name"] = "Claymore of Unholy Might", ["prio"] = " Prio: "},
 {["loot_id"] = "23000", ["loot_name"] = "Plated Abomination Ribcage", ["prio"] = " Prio: Seyt(5) > Maddi(5) > Nirenah(6) > Wurm(10) > Thranng(9) > "},
-{["loot_id"] = "23070", ["loot_name"] = "Leggings of Polarity", ["prio"] = " Prio: Cz (3) > Starbuzz (3) > Greun (4) > Nitilas (4) > Kendy (7) > "},
+{["loot_id"] = "23070", ["loot_name"] = "Leggings of Polarity", ["prio"] = " Prio: Starbuzz (3) > Greun (4) > Nitilas (4) > Kendy (7) > "},
 {["loot_id"] = "23001", ["loot_name"] = "Eye of Diminution", ["prio"] = " Prio: "},
 {["loot_id"] = "22808", ["loot_name"] = "The Castigator", ["prio"] = " Prio: Ragefire(2) > Thranng(?) > Maddi(14) > Hayze(?) > "},
 {["loot_id"] = "22801", ["loot_name"] = "Spire of Twilight", ["prio"] = " Prio: If (-) > Enymen (-) > "},
