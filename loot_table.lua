@@ -69,7 +69,7 @@ hip_loot_table = {
 {["loot_id"] = "21586", ["loot_name"] = "Belt of Never-ending Agony", ["prio"] = " Prio: Cammy (3) > Ailenya (5) > Ronerva > VodkaO (3) > Exc > "},
 {["loot_id"] = "21596", ["loot_name"] = "Ring of the Godslayer", ["prio"] = " Prio: "},
 {["loot_id"] = "21839", ["loot_name"] = "Scepter of the False Prophet", ["prio"] = " Prio: Elfierde > Para > Anyph > Methy > Tororin > "},
-{["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Cz > Talatro > Starbuzz > Ester > Nitilas > "},
+{["loot_id"] = "22730", ["loot_name"] = "Eyestalk Waist Cord", ["prio"] = " Prio: Talatro > Starbuzz > Ester > Nitilas > Phizzy > "},
 {["loot_id"] = "22731", ["loot_name"] = "Cloak of the Devoured", ["prio"] = " Prio: Greun > Starbuzz > Nitilas > Kendy > Talatro > "},
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Ragnoz > Nirenah > Maddi > Wurm > "},
 {["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: "},
