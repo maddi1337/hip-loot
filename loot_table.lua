@@ -97,7 +97,7 @@ hip_loot_table = {
 {["loot_id"] = "22370", ["loot_name"] = "Desecrated Belt", ["prio"] = " Prio: Hankmoody (7) > Phizzy (7) > Cz (13) > Enyman (set) > "},
 {["loot_id"] = "22363", ["loot_name"] = "Desecrated Girdle", ["prio"] = " Prio: Anyph (11) > Toro (-) > Para (-) > Pvpgott (4) > If (8) > "},
 {["loot_id"] = "22356", ["loot_name"] = "Desecrated Waistguard", ["prio"] = " Prio: Alvaroh (7) Kruzade(7) > VodkaO (9) Hayze(13) > Cammy (tbd) > Hamma (tbd) > "},
-{["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: Hankmoody (4) > Phizzy (8) > Ester (10) > Ilarion (12) > Cz (14) > "},
+{["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: Phizzy (8) > Ester (10) > Ilarion (12) > Cz (14) > Enyman (set) > "},
 {["loot_id"] = "22359", ["loot_name"] = "Desecrated Legguards", ["prio"] = " Prio: Anyph (8) > Toro (-) > Para (-) > If (10) > Flüffel (tbd) > "},
 {["loot_id"] = "22352", ["loot_name"] = "Desecrated Legplates", ["prio"] = " Prio: Cammy (7) Ragnoz(4) > Hamma (8) Kruzade(8) > Ailenya (9) Hayze(15) > Alvaroh (10) > VodkaO (12) > "},
 {["loot_id"] = "22372", ["loot_name"] = "Desecrated Sandals", ["prio"] = " Prio: Starbuzz (6) > Cz (8) > Phizzy (9) > Nitilas (10) > Elfierde (9) > "},
