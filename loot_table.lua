@@ -159,7 +159,7 @@ hip_loot_table = {
 {["loot_id"] = "22800", ["loot_name"] = "Brimstone Staff", ["prio"] = " Prio: Trailblazer () > "},
 {["loot_id"] = "23017", ["loot_name"] = "Veil of Eclipse", ["prio"] = " Prio: "},
 {["loot_id"] = "23219", ["loot_name"] = "Girdle of the Mentor", ["prio"] = " Prio: Thranng(3) > Hayze(5) > Nirenah(8) > Ragefire(9) > Maddi(12) > "},
-{["loot_id"] = "23018", ["loot_name"] = "Signet of the Fallen Defender", ["prio"] = " Prio: Ronerva (4) > Møøn (-) > "},
+{["loot_id"] = "23018", ["loot_name"] = "Signet of the Fallen Defender", ["prio"] = " Prio: Møøn (-) > "},
 {["loot_id"] = "23004", ["loot_name"] = "Idol of Longevity", ["prio"] = " Prio: Pvpgott (7) > "},
 {["loot_id"] = "23009", ["loot_name"] = "Wand of the Whispering Dead", ["prio"] = " Prio: Ilarion (3) > Enymen (10) > Elfierde (12) > Blargus (-) > "},
 {["loot_id"] = "23014", ["loot_name"] = "Iblis, Blade of the Fallen Seraph", ["prio"] = " Prio: Ailenya (2) > Alvaroh (2) > Cammy (2) > Hamma (2) > "},
