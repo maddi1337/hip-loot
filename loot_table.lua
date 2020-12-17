@@ -175,7 +175,7 @@ hip_loot_table = {
 {["loot_id"] = "22809", ["loot_name"] = "Maul of the Redeemed Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "22691", ["loot_name"] = "Corrupted Ashbringer", ["prio"] = " Prio: Kruzade(1) > Wurm(4) > Seyt(13) > Hayze(20) > Ragnoz(24) > "},
 {["loot_id"] = "23548", ["loot_name"] = "Might of the Scourge", ["prio"] = " Prio: Wurm (6) > Maddi(9) > Ragnoz(11) > Ronerva (6) > "},
-{["loot_id"] = "23545", ["loot_name"] = "Power of the Scourge", ["prio"] = " Prio: "},
+{["loot_id"] = "23545", ["loot_name"] = "Power of the Scourge", ["prio"] = " Prio: Greun () > Trailblazer () > "},
 {["loot_id"] = "23549", ["loot_name"] = "Fortitude of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23547", ["loot_name"] = "Resilience of the Scourge", ["prio"] = " Prio: If (13) > Para (11) > "},
 {["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Starbuzz (3) > Cz (4) > Nitilas (5) > Greun (11) > Phizzy (12) > "},
