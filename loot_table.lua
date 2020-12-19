@@ -86,7 +86,7 @@ hip_loot_table = {
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: Para (7) > Toro (9) > Anyph (12) > If (9) > Flüffel (tbd) > "},
 {["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: Ailenya (7)(hat) Hayze(12) > Cammy (10) Ragnoz(13) > Hamma (9) > Alvaroh (13) > "},
 {["loot_id"] = "22371", ["loot_name"] = "Desecrated Gloves", ["prio"] = " Prio: Ilarion (7) > Ester (12) > Hankmoody (11) > Enyman (set) > "},
-{["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: Toro (-) > Flüffel (tbd) > "},
+{["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: Toro (-) > Flüffel (tbd) > Methy (8) > Patboss (-) > "},
 {["loot_id"] = "22357", ["loot_name"] = "Desecrated Gauntlets", ["prio"] = " Prio: Ailenya (5) Kruzade(6) > Alvaroh (8) Ragnoz(6) > Cammy (9) Hayze(14) > Hamma (11) > VodkaO (tbd) > "},
 {["loot_id"] = "22368", ["loot_name"] = "Desecrated Shoulderpads", ["prio"] = " Prio: Cz (6) > Starbuzz (7) > Nitilas (8) > Enyman (6) > Ilarion (8) > "},
 {["loot_id"] = "22361", ["loot_name"] = "Desecrated Spaulders", ["prio"] = " Prio: Toro (-) > Pvpgott (6) > If (15) > Flüffel (tbd) > Patboss (8) > "},
