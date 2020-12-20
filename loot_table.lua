@@ -115,7 +115,7 @@ hip_loot_table = {
 {["loot_id"] = "22941", ["loot_name"] = "Polar Shoulder Pads", ["prio"] = " Prio: "},
 {["loot_id"] = "22940", ["loot_name"] = "Icebane Pauldrons", ["prio"] = " Prio: "},
 {["loot_id"] = "22942", ["loot_name"] = "The Widow's Embrace", ["prio"] = " Prio: Para (-) > Ilarion > Toro (3) > If (12) > Patboss (-) > "},
-{["loot_id"] = "22806", ["loot_name"] = "Widow's Remorse", ["prio"] = " Prio: Ragnoz(10) > Hamma (13) > Cammy (?) > Alvaroh (?) > Ailenya (?) > "},
+{["loot_id"] = "22806", ["loot_name"] = "Widow's Remorse", ["prio"] = " Prio: Elî(2) > Ragnoz(10) > Hamma (13) > Cammy (?) > Alvaroh (?) > "},
 {["loot_id"] = "22947", ["loot_name"] = "Pendant of Forgotten Names", ["prio"] = " Prio: "},
 {["loot_id"] = "23220", ["loot_name"] = "Crystal Webbed Robe", ["prio"] = " Prio: "},
 {["loot_id"] = "22954", ["loot_name"] = "Kiss of the Spider", ["prio"] = " Prio: Maddi(2) > Wurm(2) > Cammy (3) > Seyt(4) > Ailenya (3) > "},
