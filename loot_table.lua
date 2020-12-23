@@ -84,7 +84,7 @@ hip_loot_table = {
 {["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: Blackthorn (-) > Maddi(12) > Hayze(21) > "},
 {["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: Ilarion (10) > Rezzer (7) > Elfierde (8) > Hankmoody (15) > Ester (18) > "},
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: Methy(6) > Para(7) > Toro(9) > Scorê(6) > Flüffel(11) > "},
-{["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: Ailenya (7)(X) > Prokrasty (2) > Elî(4) > Hayze(12) > Melfice (5) > "},
+{["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: Prokrasty (2) > Elî(4) > Hayze(12) > Melfice (5) > Vancleeves (10) > "},
 {["loot_id"] = "22371", ["loot_name"] = "Desecrated Gloves", ["prio"] = " Prio: Rezzer (2) > Ilarion (7) > Venaa (9) > Ester (12) > Hankmoody (11) > "},
 {["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: If(7) > Methy(8) > Flüffel(12) > Toro(-) > Asphalaen(13) > "},
 {["loot_id"] = "22357", ["loot_name"] = "Desecrated Gauntlets", ["prio"] = " Prio: Ailenya (5) > Vancleaves(5) > Kruzade(6) > Alvaroh (8) > Alvaroh (8) > "},
