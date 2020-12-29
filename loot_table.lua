@@ -166,7 +166,7 @@ hip_loot_table = {
 {["loot_id"] = "23032", ["loot_name"] = "Glacial Headdress", ["prio"] = " Prio: Cz (16) > "},
 {["loot_id"] = "23020", ["loot_name"] = "Polar Helmet", ["prio"] = " Prio: "},
 {["loot_id"] = "23023", ["loot_name"] = "Sadist's Collar", ["prio"] = " Prio: Elî(10) > Wurm(15) > Seyt(17) > "},
-{["loot_id"] = "23021", ["loot_name"] = "The Soul Harvester's Bindings", ["prio"] = " Prio: Greun (12) > Kendy (15) > Cz () > "},
+{["loot_id"] = "23021", ["loot_name"] = "The Soul Harvester's Bindings", ["prio"] = " Prio: Greun (12) > Kendy (15) > "},
 {["loot_id"] = "23073", ["loot_name"] = "Boots of Displacement", ["prio"] = " Prio: "},
 {["loot_id"] = "23071", ["loot_name"] = "Leggings of Apocalypse", ["prio"] = " Prio: Møøn (1) > Ronerva (2) > Orealy(13) > "},
 {["loot_id"] = "23025", ["loot_name"] = "Seal of the Damned", ["prio"] = " Prio: Hankmoody (8) > Nitilas (11) > Cz (12) > "},
