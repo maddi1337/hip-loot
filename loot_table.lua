@@ -105,7 +105,7 @@ hip_loot_table = {
 {["loot_id"] = "22358", ["loot_name"] = "Desecrated Sabatons", ["prio"] = " Prio: Kruzade(5) > Prokrasty (7) > VodkaO (8) > vancleaves (12) > Ragnoz(8) > "},
 {["loot_id"] = "22351", ["loot_name"] = "Desecrated Robe", ["prio"] = " Prio: Ester (2) > Trailblazer (2) > Phizzy (3) > Hankmoody (5) > Cz (5) > "},
 {["loot_id"] = "22350", ["loot_name"] = "Desecrated Tunic", ["prio"] = " Prio: Para(3) > Toro(6) > Orealy(5) > Methy(5) > If(5) > "},
-{["loot_id"] = "22349", ["loot_name"] = "Desecrated Breastplate", ["prio"] = " Prio: Hamma (5) > Ragnoz(5) > Elî(6) > VodkaO (7) > Alvaroh (9) > "},
+{["loot_id"] = "22349", ["loot_name"] = "Desecrated Breastplate", ["prio"] = " Prio: Elî(6) > VodkaO (7) > Alvaroh (9) > Hayze(11) > Vancleaves (9) > "},
 {["loot_id"] = "22935", ["loot_name"] = "Touch of Frost", ["prio"] = " Prio: Cz (17) > "},
 {["loot_id"] = "22938", ["loot_name"] = "Cryptfiend Silk Cloak", ["prio"] = " Prio: Ronerva (3) > Hayze(7) > Elî(13) > Kruzade(13) > Ragnoz(14) > "},
 {["loot_id"] = "22936", ["loot_name"] = "Wristguards of Vengeance", ["prio"] = " Prio: Nirenah(2) > Ragefire(5) > Trashy(5) > Gabrial(7) > Limes (8) > "},
