@@ -206,7 +206,7 @@ hip_loot_table = {
 {["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Ester (4) > Kendy (9) > Hankmoody (9) > Greun (14) > "},
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: Flüffel(9) > Orealy(15) > Asphalaen(19) > Scorê(21) > "},
 {["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: Ilarion (2) > Elfierde (7) > Enymen (7) > Venaa (11) > Brainheal (2) > "},
-{["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: Cz (20) > Trailblazer (16) > "},
+{["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: Trailblazer (16) > Cz (20) > "},
 {["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: If (17) > Pvpgott (-) > "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
 {["loot_id"] = "20637", ["loot_name"] = "Acid Inscribed Pauldrons", ["prio"] = " Prio: Notes Not Found",},
