@@ -192,7 +192,7 @@ hip_loot_table = {
 {["loot_id"] = "23057", ["loot_name"] = "Gem of Trapped Innocents", ["prio"] = " Prio: Hankmoody (12) > Methy (2) > Greun (7) > Anyph (2) > Trailblazer (10) > "},
 {["loot_id"] = "23053", ["loot_name"] = "Stormrage's Talisman of Seething", ["prio"] = " Prio: Gabrial(6) > Ragefire(6) > Blackthorn(8) > Limes (11) > Maddi(8) > "},
 {["loot_id"] = "22812", ["loot_name"] = "Nerubian Slavemaker", ["prio"] = " Prio: Flüffel(1) > Orealy(1) > Asphalaen(1) > Scorê(1) > Seyt(8) > "},
-{["loot_id"] = "22821", ["loot_name"] = "Doomfinger", ["prio"] = " Prio: Greun (6) > Ester (17) > Trailblazer (17) > "},
+{["loot_id"] = "22821", ["loot_name"] = "Doomfinger", ["prio"] = " Prio: Greun (6) > Trailblazer (17) > Ester (17) > "},
 {["loot_id"] = "22819", ["loot_name"] = "Shield of Condemnation", ["prio"] = " Prio: Para (6) > Toro (11) > Methy (14) > Anyph (16) > Patboss (-) > "},
 {["loot_id"] = "22802", ["loot_name"] = "Kingsfall", ["prio"] = " Prio: VodkaO (1) > Melfice (1) > Vancleaves (2) > Prokrasty (3) > Flüffel(2) > "},
 {["loot_id"] = "23056", ["loot_name"] = "Hammer of the Twisting Nether", ["prio"] = " Prio: Elfierde (1) > Pvpgott (1) > Patboss (2)  > Blargus (1) > Methy (13) > "},
