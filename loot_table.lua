@@ -122,7 +122,7 @@ hip_loot_table = {
 {["loot_id"] = "22807", ["loot_name"] = "Wraith Blade", ["prio"] = " Prio: Starbuzz () > Phizzy (4) > Ester (15) > Nitilas (6) > "},
 {["loot_id"] = "22804", ["loot_name"] = "Maexxna's Fang", ["prio"] = " Prio: Vancleeves (1) > VodkaO (5) > "},
 {["loot_id"] = "22960", ["loot_name"] = "Cloak of Suturing", ["prio"] = " Prio: Enymen (3) > Toro (4) > If (4) > Patboss (3) > Venaa (7) > "},
-{["loot_id"] = "22961", ["loot_name"] = "Band of Reanimation ", ["prio"] = " Prio: Flüffel(8) > Asphalaen(18) > "},
+{["loot_id"] = "22961", ["loot_name"] = "Band of Reanimation ", ["prio"] = " Prio: Asphalaen(18) > Flüffel(8) > "},
 {["loot_id"] = "22820", ["loot_name"] = "Wand of Fates", ["prio"] = " Prio: Nitilas (2) > Starbuzz (5) > Trailblazer (7) > Cz (10) > "},
 {["loot_id"] = "22818", ["loot_name"] = "The Plague Bearer", ["prio"] = " Prio: "},
 {["loot_id"] = "22815", ["loot_name"] = "Severance", ["prio"] = " Prio: "},
