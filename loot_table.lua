@@ -82,7 +82,7 @@ hip_loot_table = {
 {["loot_id"] = "23238", ["loot_name"] = "Stygian Buckler", ["prio"] = " Prio: "},
 {["loot_id"] = "23044", ["loot_name"] = "Harbinger of Doom", ["prio"] = " Prio: Prokrasty (4) > Orealy(4) > Flüffel(4) > Asphalaen(5) > Scorê(17) > "},
 {["loot_id"] = "23221", ["loot_name"] = "Misplaced Servo Arm", ["prio"] = " Prio: Blackthorn (-) > Melfice > "},
-{["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: Ester (18) > Trailblazer (15) > Enyman (set) > "},
+{["loot_id"] = "22369", ["loot_name"] = "Desecrated Bindings", ["prio"] = " Prio: Ester (18) > Enyman (set) > Trailblazer (15) > "},
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: Scorê(6) > Asphalaen(15) > If(9) > Anyph(12) > "},
 {["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: Elî(4) > Hayze(12) > Melfice (5) > Vancleeves (10) > Hamma (10) > "},
 {["loot_id"] = "22371", ["loot_name"] = "Desecrated Gloves", ["prio"] = " Prio: Ilarion (7) > Venaa (9) > Brainheal (9) > Ester (12) > Hankmoody (11) > "},
