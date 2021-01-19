@@ -165,7 +165,7 @@ hip_loot_table = {
 {["loot_id"] = "23014", ["loot_name"] = "Iblis, Blade of the Fallen Seraph", ["prio"] = " Prio: Hamma (2) > Flüffel(3) > Alvaroh (2) > Ailenya (2) > Orealy (10) > "},
 {["loot_id"] = "23032", ["loot_name"] = "Glacial Headdress", ["prio"] = " Prio: "},
 {["loot_id"] = "23020", ["loot_name"] = "Polar Helmet", ["prio"] = " Prio: "},
-{["loot_id"] = "23023", ["loot_name"] = "Sadist's Collar", ["prio"] = " Prio: Wurm(15) > Seyt(17) > "},
+{["loot_id"] = "23023", ["loot_name"] = "Sadist's Collar", ["prio"] = " Prio: Wurm(15) > Seyt(17) > Kruzade() > "},
 {["loot_id"] = "23021", ["loot_name"] = "The Soul Harvester's Bindings", ["prio"] = " Prio: Greun (12) > "},
 {["loot_id"] = "23073", ["loot_name"] = "Boots of Displacement", ["prio"] = " Prio: "},
 {["loot_id"] = "23071", ["loot_name"] = "Leggings of Apocalypse", ["prio"] = " Prio: Møøn (1) > Orealy(13) > "},
