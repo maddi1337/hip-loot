@@ -86,7 +86,7 @@ hip_loot_table = {
 {["loot_id"] = "22362", ["loot_name"] = "Desecrated Wristguards", ["prio"] = " Prio: Scorê(6) > Asphalaen(15) > If(9) > Anyph(12) > "},
 {["loot_id"] = "22355", ["loot_name"] = "Desecrated Bracers", ["prio"] = " Prio: Elî(4) > Hayze(12) > Melfice (5) > Vancleeves (10) > Hamma (10) > "},
 {["loot_id"] = "22371", ["loot_name"] = "Desecrated Gloves", ["prio"] = " Prio: Ilarion (7) > Venaa (9) > Brainheal (9) > Ester (12) > Hankmoody (11) > "},
-{["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: Patboss(-) > Scorê(14) > "},
+{["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: Patboss(-) > "},
 {["loot_id"] = "22357", ["loot_name"] = "Desecrated Gauntlets", ["prio"] = " Prio: Ragnoz(6) > Cammy (9) > Hayze(14) > Hamma (13) > Alvaroh (8) > "},
 {["loot_id"] = "22368", ["loot_name"] = "Desecrated Shoulderpads", ["prio"] = " Prio: Enyman (6) > Ilarion (8) > Rezzer (6) > Venaa (6) > Brainheal (7) > "},
 {["loot_id"] = "22361", ["loot_name"] = "Desecrated Spaulders", ["prio"] = " Prio: Scorê(9) > Toro(-) > If(15) > Patboss(8) > Orealy(10) > "},
