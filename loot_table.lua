@@ -145,7 +145,7 @@ hip_loot_table = {
 {["loot_id"] = "23031", ["loot_name"] = "Band of the Inevitable", ["prio"] = " Prio: Phizzy (2) > Starbuzz (9) > Cz (11) > "},
 {["loot_id"] = "23028", ["loot_name"] = "Hailstone Band", ["prio"] = " Prio: "},
 {["loot_id"] = "23029", ["loot_name"] = "Noth's Frigid Heart", ["prio"] = " Prio: Venaa > If (14) > Ilarion (-) > Brainheal (4) > "},
-{["loot_id"] = "23006", ["loot_name"] = "Libram of Light", ["prio"] = " Prio: Toro (12) > Patboss (12) > Methy (15) > Anyph (14) > "},
+{["loot_id"] = "23006", ["loot_name"] = "Libram of Light", ["prio"] = " Prio: Patboss (12) > Methy (15) > Anyph (14) > "},
 {["loot_id"] = "22816", ["loot_name"] = "Hatchet of Sundered Bone", ["prio"] = " Prio: Scorê(18) > Asphalaen(20) > "},
 {["loot_id"] = "23035", ["loot_name"] = "Preceptor's Hat", ["prio"] = " Prio: "},
 {["loot_id"] = "23033", ["loot_name"] = "Icy Scale Coif", ["prio"] = " Prio: "},
