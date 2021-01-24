@@ -201,7 +201,7 @@ hip_loot_table = {
 {["loot_id"] = "22798", ["loot_name"] = "Might of Menethil", ["prio"] = " Prio: Hayze(19) > "},
 {["loot_id"] = "22799", ["loot_name"] = "Soulseeker", ["prio"] = " Prio: Ester (6) > "},
 {["loot_id"] = "23060", ["loot_name"] = "Bonescythe Ring", ["prio"] = " Prio: Melfice (3) > Cammy (5) > Hamma (8) > VodkaO (13) > Alvaroh (11) > "},
-{["loot_id"] = "23066", ["loot_name"] = "Ring of Redemption", ["prio"] = " Prio: Toro (10) > Patboss (11) > Methy (11) > Anyph (5)  > "},
+{["loot_id"] = "23066", ["loot_name"] = "Ring of Redemption", ["prio"] = " Prio: Patboss (11) > Methy (11) > Toro (10) > Anyph (5)  > "},
 {["loot_id"] = "23059", ["loot_name"] = "Ring of the Dreadnaught", ["prio"] = " Prio: Elî(11) > Ragnoz(11) > Hayze(16) > "},
 {["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Ester (4) > Hankmoody (9) > Greun (14) > "},
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: Orealy(15) > Asphalaen(19) > Scorê(21) > "},
