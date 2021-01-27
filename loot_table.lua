@@ -170,7 +170,7 @@ hip_loot_table = {
 {["loot_id"] = "23073", ["loot_name"] = "Boots of Displacement", ["prio"] = " Prio: "},
 {["loot_id"] = "23071", ["loot_name"] = "Leggings of Apocalypse", ["prio"] = " Prio: Orealy(13) > "},
 {["loot_id"] = "23025", ["loot_name"] = "Seal of the Damned", ["prio"] = " Prio: Nitilas (11) > Cz (12) > "},
-{["loot_id"] = "23027", ["loot_name"] = "Warmth of Forgiveness", ["prio"] = " Prio: Brainheal > Blargus (2) > Venaa (-) > If (-) > "},
+{["loot_id"] = "23027", ["loot_name"] = "Warmth of Forgiveness", ["prio"] = " Prio: Brainheal > Venaa (-) > If (-) > "},
 {["loot_id"] = "22811", ["loot_name"] = "Soulstring", ["prio"] = " Prio: Ragnoz(15) > Nirenah(11) > "},
 {["loot_id"] = "22809", ["loot_name"] = "Maul of the Redeemed Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "22691", ["loot_name"] = "Corrupted Ashbringer", ["prio"] = " Prio: Kruzade(1) > Wurm(4) > Seyt(13) > Ragnoz(16) > Hayze(20) > "},
