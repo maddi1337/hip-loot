@@ -176,7 +176,7 @@ hip_loot_table = {
 {["loot_id"] = "22691", ["loot_name"] = "Corrupted Ashbringer", ["prio"] = " Prio: Kruzade(1) > Wurm(4) > Seyt(13) > Ragnoz(16) > "},
 {["loot_id"] = "23548", ["loot_name"] = "Might of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23545", ["loot_name"] = "Power of the Scourge", ["prio"] = " Prio: "},
-{["loot_id"] = "23549", ["loot_name"] = "Fortitude of the Scourge", ["prio"] = " Prio: Kruzade (100) > Kruzade (100) > Kruzade (100) > Kruzade (100) > Kruzade (100) > "},
+{["loot_id"] = "23549", ["loot_name"] = "Fortitude of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23547", ["loot_name"] = "Resilience of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Nitilas (5) > Trailblazer (8) > Greun (11) > Phizzy (12) > Methy (4) > "},
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Gabrial(5) > Wurm(7) > Ragefire(3) > Trashy(6) > Flüffel(7) > "},
