@@ -173,7 +173,7 @@ hip_loot_table = {
 {["loot_id"] = "23027", ["loot_name"] = "Warmth of Forgiveness", ["prio"] = " Prio: Venaa (-) > If (-) > "},
 {["loot_id"] = "22811", ["loot_name"] = "Soulstring", ["prio"] = " Prio: Ragnoz(15) > Nirenah(11) > "},
 {["loot_id"] = "22809", ["loot_name"] = "Maul of the Redeemed Crusader", ["prio"] = " Prio: "},
-{["loot_id"] = "22691", ["loot_name"] = "Corrupted Ashbringer", ["prio"] = " Prio: Kruzade(1) > Wurm(4) > Seyt(13) > Ragnoz(16) > Hayze(20) > "},
+{["loot_id"] = "22691", ["loot_name"] = "Corrupted Ashbringer", ["prio"] = " Prio: Kruzade(1) > Wurm(4) > Seyt(13) > Ragnoz(16) > "},
 {["loot_id"] = "23548", ["loot_name"] = "Might of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23545", ["loot_name"] = "Power of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23549", ["loot_name"] = "Fortitude of the Scourge", ["prio"] = " Prio: "},
