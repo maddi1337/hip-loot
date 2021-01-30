@@ -196,7 +196,7 @@ hip_loot_table = {
 {["loot_id"] = "22819", ["loot_name"] = "Shield of Condemnation", ["prio"] = " Prio: Para (6) > Toro (11) > Methy (14) > Anyph (16) > Patboss (-) > "},
 {["loot_id"] = "22802", ["loot_name"] = "Kingsfall", ["prio"] = " Prio: Melfice (1) > Vancleaves (2) > Prokrasty (3) > Flüffel(2) > Scorê(3) > "},
 {["loot_id"] = "23056", ["loot_name"] = "Hammer of the Twisting Nether", ["prio"] = " Prio: Pvpgott (1) > Patboss (2)  > Blargus (1) > Methy (13) > Anyph (1) > "},
-{["loot_id"] = "23054", ["loot_name"] = "Gressil, Dawn of Ruin", ["prio"] = " Prio: Wurm (1) > Maddi(1) > Hamma (1) > Cammy (1) > Seyt(1) > "},
+{["loot_id"] = "23054", ["loot_name"] = "Gressil, Dawn of Ruin", ["prio"] = " Prio: Wurm (1) > Maddi(1) > Cammy (1) > Hamma (1) > Seyt(1) > "},
 {["loot_id"] = "23577", ["loot_name"] = "The Hungering Cold", ["prio"] = " Prio: Elî(1) > Ragnoz(1) > Limes (1) > Seyt(2) > Blackthorn (2) > "},
 {["loot_id"] = "22798", ["loot_name"] = "Might of Menethil", ["prio"] = " Prio: Hayze(19) > "},
 {["loot_id"] = "22799", ["loot_name"] = "Soulseeker", ["prio"] = " Prio: Ester (6) > "},
