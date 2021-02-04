@@ -152,7 +152,7 @@ hip_loot_table = {
 {["loot_id"] = "23019", ["loot_name"] = "Icebane Helmet", ["prio"] = " Prio: "},
 {["loot_id"] = "23036", ["loot_name"] = "Necklace of Necropsy", ["prio"] = " Prio: Enymen (8) > Brainheal (16) > Blargus (-) > Elfierde (-) > "},
 {["loot_id"] = "23068", ["loot_name"] = "Legplates of Carnage", ["prio"] = " Prio: Limes (6) > Seyt(6) > Maddi(7) > Ragefire(8) > Gabrial(11) > "},
-{["loot_id"] = "23038", ["loot_name"] = "Band of Unnatural Forces", ["prio"] = " Prio: Gabrial(1) > Nirenah(3) > Maddi(4) > Blackthorn (4) > Wurm(8) > "},
+{["loot_id"] = "23038", ["loot_name"] = "Band of Unnatural Forces", ["prio"] = " Prio: Gabrial(1) > Maddi(4) > Blackthorn (4) > Wurm(8) > Valcleaves (2) > "},
 {["loot_id"] = "23037", ["loot_name"] = "Ring of Spiritual Fervor", ["prio"] = " Prio: "},
 {["loot_id"] = "23042", ["loot_name"] = "Loatheb's Reflection", ["prio"] = " Prio: "},
 {["loot_id"] = "23039", ["loot_name"] = "The Eye of Nerub", ["prio"] = " Prio: Orealy (19) > Scorê(20) > "},
