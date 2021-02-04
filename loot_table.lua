@@ -182,7 +182,7 @@ hip_loot_table = {
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Gabrial(5) > Wurm(7) > Ragefire(3) > Trashy(6) > Flüffel(7) > "},
 {["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Kruzade(12) > "},
 {["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: Toro (2) > Patboss(1) > If (2) > Venaa > Para (2) > "},
-{["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Asphalaen(2) > Ailenya (3) > Seyt(3) > Flüffel(4) > Hamma (3) > "},
+{["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Asphalaen(2) > Seyt(3) > Flüffel(4) > Hamma (3) > VodkaO (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Nitilas (1) > Trailblazer (1) > Cz (2) > Ester (5) > Phizzy (6) > "},
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Greun (2) > Starbuzz () > Phizzy (6) > Nitilas (12) > Cz (15) > "},
 {["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Ilarion (11) > Venaa (2) > Pvpgott (2) > If (7) > Enymen (2) > "},
