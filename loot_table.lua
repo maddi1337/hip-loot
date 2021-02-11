@@ -158,7 +158,7 @@ hip_loot_table = {
 {["loot_id"] = "23039", ["loot_name"] = "The Eye of Nerub", ["prio"] = " Prio: Scorê(20) > "},
 {["loot_id"] = "22800", ["loot_name"] = "Brimstone Staff", ["prio"] = " Prio: "},
 {["loot_id"] = "23017", ["loot_name"] = "Veil of Eclipse", ["prio"] = " Prio: Pvpgott(-) > Ilarion > Brainheal > "},
-{["loot_id"] = "23219", ["loot_name"] = "Girdle of the Mentor", ["prio"] = " Prio: Elî(7) > Hayze(5) > Gabrial(8) > Nirenah(8) > "},
+{["loot_id"] = "23219", ["loot_name"] = "Girdle of the Mentor", ["prio"] = " Prio: Elî(7) > Hayze(5) > Gabrial(8) > Nirenah(8) > Ragefire(9) > "},
 {["loot_id"] = "23018", ["loot_name"] = "Signet of the Fallen Defender", ["prio"] = " Prio: Møøn (-) > "},
 {["loot_id"] = "23004", ["loot_name"] = "Idol of Longevity", ["prio"] = " Prio: Pvpgott (7) > "},
 {["loot_id"] = "23009", ["loot_name"] = "Wand of the Whispering Dead", ["prio"] = " Prio: Ilarion (3) > Venaa (8) > Enymen (10) > Elfierde (12) > Brainheal (12) > "},
