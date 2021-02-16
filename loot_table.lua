@@ -135,7 +135,7 @@ hip_loot_table = {
 {["loot_id"] = "22981", ["loot_name"] = "Gluth's Missing Collar", ["prio"] = " Prio: "},
 {["loot_id"] = "22994", ["loot_name"] = "Digested Hand of Power", ["prio"] = " Prio: "},
 {["loot_id"] = "23075", ["loot_name"] = "Death's Bargain", ["prio"] = " Prio: Methy (14) > Anyph (15) > Toro (-) > Para (-) > "},
-{["loot_id"] = "22813", ["loot_name"] = "Claymore of Unholy Might", ["prio"] = " Prio: "},
+{["loot_id"] = "22813", ["loot_name"] = "Claymore of Unholy Might", ["prio"] = " Prio: Orealy (-) > "},
 {["loot_id"] = "23000", ["loot_name"] = "Plated Abomination Ribcage", ["prio"] = " Prio: Limes (4) > Blackthorn (6) > Wurm(9) > Seyt(5) > Maddi(5) > "},
 {["loot_id"] = "23070", ["loot_name"] = "Leggings of Polarity", ["prio"] = " Prio: Trailblazer (4) > Ilarion > Brainheal > "},
 {["loot_id"] = "23001", ["loot_name"] = "Eye of Diminution", ["prio"] = " Prio: "},
