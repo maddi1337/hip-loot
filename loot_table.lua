@@ -104,7 +104,7 @@ hip_loot_table = {
 {["loot_id"] = "22365", ["loot_name"] = "Desecrated Boots", ["prio"] = " Prio: Asphalaen(16) > Para(10) > Methy(10) > Ronerva (-) > "},
 {["loot_id"] = "22358", ["loot_name"] = "Desecrated Sabatons", ["prio"] = " Prio: Hayze(16) > Ailenya (12) > Hamma (11) > Melfice(0) > "},
 {["loot_id"] = "22351", ["loot_name"] = "Desecrated Robe", ["prio"] = " Prio: Cz (5) > Greun (5) > Nitilas (7) > Rezzer (3) > Elfierde (5) > "},
-{["loot_id"] = "22350", ["loot_name"] = "Desecrated Tunic", ["prio"] = " Prio: Methy(5) > If(5) > Asphalaen(9) > Flüffel(16) > Scorê(16) > "},
+{["loot_id"] = "22350", ["loot_name"] = "Desecrated Tunic", ["prio"] = " Prio: Methy(5) > Asphalaen(9) > Flüffel(16) > Scorê(16) > Patboss(6) > "},
 {["loot_id"] = "22349", ["loot_name"] = "Desecrated Breastplate", ["prio"] = " Prio: Alvaroh (9) > Prokrasty (11) > Ailenya (tbd) > Melfice (0) > "},
 {["loot_id"] = "22935", ["loot_name"] = "Touch of Frost", ["prio"] = " Prio: "},
 {["loot_id"] = "22938", ["loot_name"] = "Cryptfiend Silk Cloak", ["prio"] = " Prio: Kruzade(13) > Ragnoz(14) > Møøn (-) > "},
