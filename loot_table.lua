@@ -98,7 +98,7 @@ hip_loot_table = {
 {["loot_id"] = "22363", ["loot_name"] = "Desecrated Girdle", ["prio"] = " Prio: Scorê(15) > If(8) > Toro(-) > Para(-) > "},
 {["loot_id"] = "22356", ["loot_name"] = "Desecrated Waistguard", ["prio"] = " Prio: "},
 {["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: "},
-{["loot_id"] = "22359", ["loot_name"] = "Desecrated Legguards", ["prio"] = " Prio: Scorê(10) > Orealy(11) > Flüffel(18) > Toro(-) > Para (-) > "},
+{["loot_id"] = "22359", ["loot_name"] = "Desecrated Legguards", ["prio"] = " Prio: Scorê(10) > Flüffel(18) > Orealy(11) > Toro(-) > Para (-) > "},
 {["loot_id"] = "22352", ["loot_name"] = "Desecrated Legplates", ["prio"] = " Prio: Prokrasty (10) > VodkaO (12) > Hayze(15) > Melfice (0) > "},
 {["loot_id"] = "22372", ["loot_name"] = "Desecrated Sandals", ["prio"] = " Prio: Elfierde (9) > Brinheal (6) > Venaa (12) > Hankmoody (13) > Greun (13) > "},
 {["loot_id"] = "22365", ["loot_name"] = "Desecrated Boots", ["prio"] = " Prio: Para(10) > Methy(10) > Ronerva (-) > "},
