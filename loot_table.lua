@@ -181,7 +181,7 @@ hip_loot_table = {
 {["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Trailblazer (8) > Greun (11) > Phizzy (12) > *Ester (8) > *Hankmoody (14) > "},
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Gabrial(5) > Wurm(7) > Ragefire(3) > Flüffel(7) > Blackthorn (7) > "},
 {["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Ragnoz() > "},
-{["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: Patboss(1) > If (2) > Venaa > Para (2) > Ilarion (4) > "},
+{["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: If (2) > Venaa > Patboss(1) > Para (2) > Ilarion (4) > "},
 {["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Orealy(2) > Seyt(3) > Flüffel(4) > Hamma (3) > VodkaO (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Trailblazer (1) > Ester (5) > Phizzy (6) > Hankmoody (6) > Greun (8) > "},
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Greun (2) > Starbuzz () > Cz (15) > Phizzy (6) > Ester (16) > "},
