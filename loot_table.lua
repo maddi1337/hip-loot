@@ -178,7 +178,7 @@ hip_loot_table = {
 {["loot_id"] = "23545", ["loot_name"] = "Power of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23549", ["loot_name"] = "Fortitude of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23547", ["loot_name"] = "Resilience of the Scourge", ["prio"] = " Prio: "},
-{["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Trailblazer (8) > Greun (11) > Phizzy (12) > Methy (4) > *Ester (8) > "},
+{["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Trailblazer (8) > Greun (11) > Phizzy (12) > *Ester (8) > *Hankmoody (14) > "},
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Gabrial(5) > Wurm(7) > Ragefire(3) > Flüffel(7) > Blackthorn (7) > "},
 {["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Ragnoz() > "},
 {["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: Patboss(1) > If (2) > Venaa > Para (2) > Ilarion (4) > "},
