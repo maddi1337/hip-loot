@@ -74,7 +74,7 @@ hip_loot_table = {
 {["loot_id"] = "22732", ["loot_name"] = "Mark of C'Thun", ["prio"] = " Prio: Ragnoz > Nirenah > Maddi > Wurm > "},
 {["loot_id"] = "23667", ["loot_name"] = "Spaulders of the Grand Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "23069", ["loot_name"] = "Necro-Knight's Garb", ["prio"] = " Prio: "},
-{["loot_id"] = "23226", ["loot_name"] = "Ghoul Skin Tunic", ["prio"] = " Prio: "},
+{["loot_id"] = "23226", ["loot_name"] = "Ghoul Skin Tunic", ["prio"] = " Prio: Gabrial(X) > "},
 {["loot_id"] = "23663", ["loot_name"] = "Girdle of Elemental Fury", ["prio"] = " Prio: "},
 {["loot_id"] = "23666", ["loot_name"] = "Belt of the Grand Crusader", ["prio"] = " Prio: "},
 {["loot_id"] = "23668", ["loot_name"] = "Leggings of the Grand Crusader", ["prio"] = " Prio: "},
