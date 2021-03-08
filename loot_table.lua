@@ -186,7 +186,7 @@ hip_loot_table = {
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Trailblazer (1) > Ester (5) > Phizzy (6) > Hankmoody (6) > Greun (8) > "},
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Greun (2) > Starbuzz () > Cz (15) > Phizzy (6) > Ester (16) > "},
 {["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Venaa > If (7) > Enymen (2) > Anyph (17) > "},
-{["loot_id"] = "23043", ["loot_name"] = "The Face of Death", ["prio"] = " Prio: Wurm(16) > Maddi(25+) > "},
+{["loot_id"] = "23043", ["loot_name"] = "The Face of Death", ["prio"] = " Prio: Wurm(16) > Seyt(25+) > Maddi(25+) > "},
 {["loot_id"] = "23242", ["loot_name"] = "Claw of the Frost Wyrm", ["prio"] = " Prio: Orealy(12) > Flüffel(5) > "},
 {["loot_id"] = "22520", ["loot_name"] = "The Phylactery of Kel'Thuzad", ["prio"] = " Prio: VodkaO (?) > Asphalaen(?) > Hamma (?) > Prokrasty (?) > Trailblazer (?) > "},
 {["loot_id"] = "23057", ["loot_name"] = "Gem of Trapped Innocents", ["prio"] = " Prio: Greun (7) > *Ester (9) > **Cz (16) > *Starbuzz (10) > *Phizzy (13) > "},
