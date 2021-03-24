@@ -180,7 +180,7 @@ hip_loot_table = {
 {["loot_id"] = "23547", ["loot_name"] = "Resilience of the Scourge", ["prio"] = " Prio: "},
 {["loot_id"] = "23050", ["loot_name"] = "Cloak of the Necropolis", ["prio"] = " Prio: Greun (11) > Phizzy (12) > *Ester (8) > *Hankmoody (14) > Methy (4) > "},
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Gabrial(5) > Wurm(7) > Ragefire(3) > Flüffel(7) > Blackthorn (7) > "},
-{["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Toro/Para > "},
+{["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Wurm(16) > Toro/Para > "},
 {["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: If (2) > Venaa > Patboss(1) > Para (2) > Ilarion (4) > "},
 {["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Seyt(3) > Flüffel(4) > Hamma (3) > VodkaO (3) > Cammy (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Ester (5) > Phizzy (6) > Hankmoody (6) > Greun (8) > Brainheal > "},
