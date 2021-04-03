@@ -130,7 +130,7 @@ hip_loot_table = {
 {["loot_id"] = "22967", ["loot_name"] = "Icy Scale Spaulders", ["prio"] = " Prio: "},
 {["loot_id"] = "22810", ["loot_name"] = "Toxin Injector", ["prio"] = " Prio: "},
 {["loot_id"] = "22803", ["loot_name"] = "Midnight Haze", ["prio"] = " Prio: "},
-{["loot_id"] = "22988", ["loot_name"] = "The End of Dreams", ["prio"] = " Prio: Møøn (-) > "},
+{["loot_id"] = "22988", ["loot_name"] = "The End of Dreams", ["prio"] = " Prio: Møøn (-) > If (-) > "},
 {["loot_id"] = "22983", ["loot_name"] = "Rime Covered Mantle", ["prio"] = " Prio: Jalo (-) > Brainheal > Enyman > "},
 {["loot_id"] = "22981", ["loot_name"] = "Gluth's Missing Collar", ["prio"] = " Prio: "},
 {["loot_id"] = "22994", ["loot_name"] = "Digested Hand of Power", ["prio"] = " Prio: "},
