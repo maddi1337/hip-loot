@@ -203,7 +203,7 @@ hip_loot_table = {
 {["loot_id"] = "23060", ["loot_name"] = "Bonescythe Ring", ["prio"] = " Prio: Ailenya > "},
 {["loot_id"] = "23066", ["loot_name"] = "Ring of Redemption", ["prio"] = " Prio: Patboss (11) > Methy (11) > Anyph (5)  > "},
 {["loot_id"] = "23059", ["loot_name"] = "Ring of the Dreadnaught", ["prio"] = " Prio: Hayze(16) > Wurm > Seyt > "},
-{["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Greun (14) > Jalo (-) > Kanelol (-) > "},
+{["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Greun (14) > Kanelol (-) > Jalo (-) > "},
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: "},
 {["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: Ilarion (2) > Elfierde (7) > Enymen (7) > Venaa (11) > Brainheal (2) > "},
 {["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: "},
