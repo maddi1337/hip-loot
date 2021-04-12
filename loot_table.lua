@@ -103,7 +103,7 @@ hip_loot_table = {
 {["loot_id"] = "22372", ["loot_name"] = "Desecrated Sandals", ["prio"] = " Prio: Ilarion (13) > Jalo (-) > Kanelol (-) > Enyman (set) > "},
 {["loot_id"] = "22365", ["loot_name"] = "Desecrated Boots", ["prio"] = " Prio: "},
 {["loot_id"] = "22358", ["loot_name"] = "Desecrated Sabatons", ["prio"] = " Prio: "},
-{["loot_id"] = "22351", ["loot_name"] = "Desecrated Robe", ["prio"] = " Prio: Brainheal (14) > "},
+{["loot_id"] = "22351", ["loot_name"] = "Desecrated Robe", ["prio"] = " Prio: Brainheal (14) > Kanelol (-) > Jalo (-) > "},
 {["loot_id"] = "22350", ["loot_name"] = "Desecrated Tunic", ["prio"] = " Prio: Flüffel(16) > Scorê(16) > Ronerva (-) > "},
 {["loot_id"] = "22349", ["loot_name"] = "Desecrated Breastplate", ["prio"] = " Prio: "},
 {["loot_id"] = "22935", ["loot_name"] = "Touch of Frost", ["prio"] = " Prio: "},
