@@ -97,7 +97,7 @@ hip_loot_table = {
 {["loot_id"] = "22370", ["loot_name"] = "Desecrated Belt", ["prio"] = " Prio: Kanelol (-) > "},
 {["loot_id"] = "22363", ["loot_name"] = "Desecrated Girdle", ["prio"] = " Prio: "},
 {["loot_id"] = "22356", ["loot_name"] = "Desecrated Waistguard", ["prio"] = " Prio: "},
-{["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: Kanelol (-) > "},
+{["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: "},
 {["loot_id"] = "22359", ["loot_name"] = "Desecrated Legguards", ["prio"] = " Prio: Toro(-) > Para (-) > Ronerva (-) > "},
 {["loot_id"] = "22352", ["loot_name"] = "Desecrated Legplates", ["prio"] = " Prio: Wurm > Seyt > "},
 {["loot_id"] = "22372", ["loot_name"] = "Desecrated Sandals", ["prio"] = " Prio: Ilarion (13) > Jalo (-) > Kanelol (-) > Enyman (set) > "},
