@@ -162,7 +162,7 @@ hip_loot_table = {
 {["loot_id"] = "23018", ["loot_name"] = "Signet of the Fallen Defender", ["prio"] = " Prio: Møøn (-) > Toro  > "},
 {["loot_id"] = "23004", ["loot_name"] = "Idol of Longevity", ["prio"] = " Prio: "},
 {["loot_id"] = "23009", ["loot_name"] = "Wand of the Whispering Dead", ["prio"] = " Prio: Elfierde (12) > Brainheal (12) > Rezzer (-) > "},
-{["loot_id"] = "23014", ["loot_name"] = "Iblis, Blade of the Fallen Seraph", ["prio"] = " Prio: Ailenya  (?) > Flüffel(3) > Scorê(13) > Asphalaen(14) > Ragnoz() > "},
+{["loot_id"] = "23014", ["loot_name"] = "Iblis, Blade of the Fallen Seraph", ["prio"] = " Prio: Ailenya  (?) > Scorê(13) > Asphalaen(14) > "},
 {["loot_id"] = "23032", ["loot_name"] = "Glacial Headdress", ["prio"] = " Prio: "},
 {["loot_id"] = "23020", ["loot_name"] = "Polar Helmet", ["prio"] = " Prio: "},
 {["loot_id"] = "23023", ["loot_name"] = "Sadist's Collar", ["prio"] = " Prio: Wurm(15) > Seyt(17) > "},
