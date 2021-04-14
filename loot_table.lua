@@ -114,7 +114,7 @@ hip_loot_table = {
 {["loot_id"] = "22943", ["loot_name"] = "Malice Stone Pendant", ["prio"] = " Prio: Ilarion > Kanelol (-) > Jalo (-) > Brainheal > Enyman > "},
 {["loot_id"] = "22941", ["loot_name"] = "Polar Shoulder Pads", ["prio"] = " Prio: "},
 {["loot_id"] = "22940", ["loot_name"] = "Icebane Pauldrons", ["prio"] = " Prio: "},
-{["loot_id"] = "22942", ["loot_name"] = "The Widow's Embrace", ["prio"] = " Prio: Random-Belohnung > Enyman > Rezzer > If (12) > "},
+{["loot_id"] = "22942", ["loot_name"] = "The Widow's Embrace", ["prio"] = " Prio: Random-Belohnung > Enyman > Rezzer > "},
 {["loot_id"] = "22806", ["loot_name"] = "Widow's Remorse", ["prio"] = " Prio: "},
 {["loot_id"] = "22947", ["loot_name"] = "Pendant of Forgotten Names", ["prio"] = " Prio: "},
 {["loot_id"] = "23220", ["loot_name"] = "Crystal Webbed Robe", ["prio"] = " Prio: Ilarion > Brainheal > "},
