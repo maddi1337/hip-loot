@@ -108,7 +108,7 @@ hip_loot_table = {
 {["loot_id"] = "22349", ["loot_name"] = "Desecrated Breastplate", ["prio"] = " Prio: "},
 {["loot_id"] = "22935", ["loot_name"] = "Touch of Frost", ["prio"] = " Prio: "},
 {["loot_id"] = "22938", ["loot_name"] = "Cryptfiend Silk Cloak", ["prio"] = " Prio: Wurm (?) > Toro  > Møøn (-) > "},
-{["loot_id"] = "22936", ["loot_name"] = "Wristguards of Vengeance", ["prio"] = " Prio: Wurm (13) > Elî(9) > Gabrial(7) > Maddi(10) > Nirenah(2) > "},
+{["loot_id"] = "22936", ["loot_name"] = "Wristguards of Vengeance", ["prio"] = " Prio: Nirenah(2) > Wurm (13) > Gabrial(7) > Maddi(10) > Hayze(22) > "},
 {["loot_id"] = "22939", ["loot_name"] = "Band of Unanswered Prayers", ["prio"] = " Prio: Pvpgott(-) > Ronerva (-) > "},
 {["loot_id"] = "22937", ["loot_name"] = "Gem of Nerubis", ["prio"] = " Prio: "},
 {["loot_id"] = "22943", ["loot_name"] = "Malice Stone Pendant", ["prio"] = " Prio: Ilarion > Kanelol (-) > Jalo (-) > Brainheal > Enyman > "},
