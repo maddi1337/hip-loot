@@ -88,7 +88,7 @@ hip_loot_table = {
 {["loot_id"] = "22371", ["loot_name"] = "Desecrated Gloves", ["prio"] = " Prio: Random-Belohnung > "},
 {["loot_id"] = "22364", ["loot_name"] = "Desecrated Handguards", ["prio"] = " Prio: "},
 {["loot_id"] = "22357", ["loot_name"] = "Desecrated Gauntlets", ["prio"] = " Prio: "},
-{["loot_id"] = "22368", ["loot_name"] = "Desecrated Shoulderpads", ["prio"] = " Prio: Hankmoody (10) > Ester (11) > "},
+{["loot_id"] = "22368", ["loot_name"] = "Desecrated Shoulderpads", ["prio"] = " Prio: Ester (11) > "},
 {["loot_id"] = "22361", ["loot_name"] = "Desecrated Spaulders", ["prio"] = " Prio: "},
 {["loot_id"] = "22354", ["loot_name"] = "Desecrated Pauldrons", ["prio"] = " Prio: "},
 {["loot_id"] = "22367", ["loot_name"] = "Desecrated Circlet", ["prio"] = " Prio: Phizzy (10) > Ilarion (14) > "},
