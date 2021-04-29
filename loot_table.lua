@@ -195,7 +195,7 @@ hip_loot_table = {
 {["loot_id"] = "22821", ["loot_name"] = "Doomfinger", ["prio"] = " Prio: Kanelol (-) > Jalo (-) > Ilarion (-) > Trailblazer (17) > Ester (17) > "},
 {["loot_id"] = "22819", ["loot_name"] = "Shield of Condemnation", ["prio"] = " Prio: Toro (11) > Methy (14) > Patboss (-) > "},
 {["loot_id"] = "22802", ["loot_name"] = "Kingsfall", ["prio"] = " Prio: Prokrasty (3) > Flüffel(2) > Scorê(3) > Asphalaen(4) > "},
-{["loot_id"] = "23056", ["loot_name"] = "Hammer of the Twisting Nether", ["prio"] = " Prio: Würfeln (intern) > (If (1)) > (Para (1)) > (Toro (1)) > "},
+{["loot_id"] = "23056", ["loot_name"] = "Hammer of the Twisting Nether", ["prio"] = " Prio: würfeln (interne heiler-mains) > (If (1)) > (Para (1)) > (Toro (1)) > "},
 {["loot_id"] = "23054", ["loot_name"] = "Gressil, Dawn of Ruin", ["prio"] = " Prio: Maddi(1) > Cammy (1) > Hamma (1) > Seyt(1) > "},
 {["loot_id"] = "23577", ["loot_name"] = "The Hungering Cold", ["prio"] = " Prio: Limes (1) > Blackthorn (2) > Gabrial(3) > Wurm(3) > Maddi(3) > "},
 {["loot_id"] = "22798", ["loot_name"] = "Might of Menethil", ["prio"] = " Prio: Ragnoz() > "},
