@@ -200,7 +200,7 @@ hip_loot_table = {
 {["loot_id"] = "23577", ["loot_name"] = "The Hungering Cold", ["prio"] = " Prio: Limes (1) > Blackthorn (2) > Gabrial(3) > Wurm(3) > Maddi(3) > "},
 {["loot_id"] = "22798", ["loot_name"] = "Might of Menethil", ["prio"] = " Prio: Ragnoz() > "},
 {["loot_id"] = "22799", ["loot_name"] = "Soulseeker", ["prio"] = " Prio: Random-Belohnung > "},
-{["loot_id"] = "23060", ["loot_name"] = "Bonescythe Ring", ["prio"] = " Prio: Ailenya > "},
+{["loot_id"] = "23060", ["loot_name"] = "Bonescythe Ring", ["prio"] = " Prio: Ailenya > Neverseen > "},
 {["loot_id"] = "23066", ["loot_name"] = "Ring of Redemption", ["prio"] = " Prio: Patboss (11) > "},
 {["loot_id"] = "23059", ["loot_name"] = "Ring of the Dreadnaught", ["prio"] = " Prio: "},
 {["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Kanelol (-) > Jalo (-) > "},
