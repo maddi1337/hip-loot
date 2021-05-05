@@ -117,7 +117,7 @@ hip_loot_table = {
 {["loot_id"] = "22942", ["loot_name"] = "The Widow's Embrace", ["prio"] = " Prio: Random-Belohnung > Enyman > Rezzer > "},
 {["loot_id"] = "22806", ["loot_name"] = "Widow's Remorse", ["prio"] = " Prio: Nirenah > Blackthorn > "},
 {["loot_id"] = "22947", ["loot_name"] = "Pendant of Forgotten Names", ["prio"] = " Prio: "},
-{["loot_id"] = "23220", ["loot_name"] = "Crystal Webbed Robe", ["prio"] = " Prio: Brainheal > "},
+{["loot_id"] = "23220", ["loot_name"] = "Crystal Webbed Robe", ["prio"] = " Prio: Keepsmile > Brainheal > "},
 {["loot_id"] = "22954", ["loot_name"] = "Kiss of the Spider", ["prio"] = " Prio: Seyt(4) > Hamma (3) > Ragefire(3) > Blackthorn (3) > "},
 {["loot_id"] = "22807", ["loot_name"] = "Wraith Blade", ["prio"] = " Prio: Starbuzz () > Phizzy (4) > Ester (15) > "},
 {["loot_id"] = "22804", ["loot_name"] = "Maexxna's Fang", ["prio"] = " Prio: VodkaO (?) > "},
