@@ -94,7 +94,7 @@ hip_loot_table = {
 {["loot_id"] = "22367", ["loot_name"] = "Desecrated Circlet", ["prio"] = " Prio: Ilarion (14) > Kanelol (-) > Sakuura > "},
 {["loot_id"] = "22360", ["loot_name"] = "Desecrated Headpiece", ["prio"] = " Prio: "},
 {["loot_id"] = "22353", ["loot_name"] = "Desecrated Helmet", ["prio"] = " Prio: Nirenah > "},
-{["loot_id"] = "22370", ["loot_name"] = "Desecrated Belt", ["prio"] = " Prio: Kanelol (-) > Random-Belohnung > "},
+{["loot_id"] = "22370", ["loot_name"] = "Desecrated Belt", ["prio"] = " Prio: Random-Belohnung > "},
 {["loot_id"] = "22363", ["loot_name"] = "Desecrated Girdle", ["prio"] = " Prio: "},
 {["loot_id"] = "22356", ["loot_name"] = "Desecrated Waistguard", ["prio"] = " Prio: "},
 {["loot_id"] = "22366", ["loot_name"] = "Desecrated Leggings", ["prio"] = " Prio: Random-Belohnung > "},
