@@ -137,7 +137,7 @@ hip_loot_table = {
 {["loot_id"] = "23075", ["loot_name"] = "Death's Bargain", ["prio"] = " Prio: Toro (-) > Para (-) > "},
 {["loot_id"] = "22813", ["loot_name"] = "Claymore of Unholy Might", ["prio"] = " Prio: "},
 {["loot_id"] = "23000", ["loot_name"] = "Plated Abomination Ribcage", ["prio"] = " Prio: Seyt(5) > Blackthorn (6) > Wurm(9) > Maddi(5) > Gabrial(9) > "},
-{["loot_id"] = "23070", ["loot_name"] = "Leggings of Polarity", ["prio"] = " Prio: Ilarion > Kanelol (-) > Jalo (-) > Keepsmile > Brainheal > "},
+{["loot_id"] = "23070", ["loot_name"] = "Leggings of Polarity", ["prio"] = " Prio: Kanelol (-) > Ilarion > Jalo (-) > Keepsmile > Brainheal > "},
 {["loot_id"] = "23001", ["loot_name"] = "Eye of Diminution", ["prio"] = " Prio: "},
 {["loot_id"] = "22808", ["loot_name"] = "The Castigator", ["prio"] = " Prio: Ragefire(2) > "},
 {["loot_id"] = "22801", ["loot_name"] = "Spire of Twilight", ["prio"] = " Prio: Random-Belohnung > "},
