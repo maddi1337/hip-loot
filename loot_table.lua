@@ -184,7 +184,7 @@ hip_loot_table = {
 {["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: Para (2) > Ilarion (4) > Brainheal (5) > Enymen (9) > Methy (12) > "},
 {["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Flüffel(4) > Hamma (3) > VodkaO (3) > Cammy (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Phizzy (6) > Hankmoody (6) > Greun (8) > Brainheal > Keepsmile > "},
-{["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Cz (15) > Phizzy (6) > Ester (16) > Brainheal > Keepsmile > "},
+{["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Ilarion > Phizzy (6) > Ester (16) > Brainheal > Keepsmile > "},
 {["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Rezzer (-) > Enymen (2) > Tamatex > Sakuura > "},
 {["loot_id"] = "23043", ["loot_name"] = "The Face of Death", ["prio"] = " Prio: Seyt(25+) > Toro/Para/Methy  > Maddi(25+) > "},
 {["loot_id"] = "23242", ["loot_name"] = "Claw of the Frost Wyrm", ["prio"] = " Prio: "},
