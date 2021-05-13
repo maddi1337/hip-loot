@@ -185,7 +185,7 @@ hip_loot_table = {
 {["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Flüffel(4) > Hamma (3) > VodkaO (3) > Cammy (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Phizzy (6) > Hankmoody (6) > Greun (8) > Brainheal > Keepsmile > "},
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Ilarion > Phizzy (6) > Ester (16) > Brainheal > Keepsmile > "},
-{["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Rezzer (-) > Enymen (2) > Tamatex > Sakuura > "},
+{["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Rezzer (-) > Tamatex > Sakuura > "},
 {["loot_id"] = "23043", ["loot_name"] = "The Face of Death", ["prio"] = " Prio: Seyt(25+) > Toro/Para/Methy  > Maddi(25+) > "},
 {["loot_id"] = "23242", ["loot_name"] = "Claw of the Frost Wyrm", ["prio"] = " Prio: "},
 {["loot_id"] = "22520", ["loot_name"] = "The Phylactery of Kel'Thuzad", ["prio"] = " Prio: "},
@@ -205,7 +205,7 @@ hip_loot_table = {
 {["loot_id"] = "23059", ["loot_name"] = "Ring of the Dreadnaught", ["prio"] = " Prio: "},
 {["loot_id"] = "23062", ["loot_name"] = "Frostfire Ring", ["prio"] = " Prio: Kanelol (-) > Jalo (-) > Czm > "},
 {["loot_id"] = "23067", ["loot_name"] = "Ring of the Cryptstalker", ["prio"] = " Prio: "},
-{["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: Ilarion (2) > Elfierde (7) > Enymen (7) > Brainheal (2) > Rezzer (-) > "},
+{["loot_id"] = "23061", ["loot_name"] = "Ring of Faith", ["prio"] = " Prio: Elfierde (7) > Enymen (7) > Brainheal (2) > Rezzer (-) > Sakuura > "},
 {["loot_id"] = "23063", ["loot_name"] = "Plagueheart Ring", ["prio"] = " Prio: Ruined > Nyveb > "},
 {["loot_id"] = "23064", ["loot_name"] = "Ring of the Dreamwalker", ["prio"] = " Prio: "},-- #############################
 {["loot_id"] = "20619", ["loot_name"] = "Acid Inscribed Greaves", ["prio"] = " Prio: Notes Not Found",},
