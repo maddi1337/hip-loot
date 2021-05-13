@@ -169,7 +169,7 @@ hip_loot_table = {
 {["loot_id"] = "23021", ["loot_name"] = "The Soul Harvester's Bindings", ["prio"] = " Prio: Ruined > Nyveb > Czm > Random-Belohnung > "},
 {["loot_id"] = "23073", ["loot_name"] = "Boots of Displacement", ["prio"] = " Prio: "},
 {["loot_id"] = "23071", ["loot_name"] = "Leggings of Apocalypse", ["prio"] = " Prio: "},
-{["loot_id"] = "23025", ["loot_name"] = "Seal of the Damned", ["prio"] = " Prio: Nyveb > Czm > Random-Belohnung > "},
+{["loot_id"] = "23025", ["loot_name"] = "Seal of the Damned", ["prio"] = " Prio: Ruined > Czm > Random-Belohnung > "},
 {["loot_id"] = "23027", ["loot_name"] = "Warmth of Forgiveness", ["prio"] = " Prio: Random > If (-) > Czm > "},
 {["loot_id"] = "22811", ["loot_name"] = "Soulstring", ["prio"] = " Prio: "},
 {["loot_id"] = "22809", ["loot_name"] = "Maul of the Redeemed Crusader", ["prio"] = " Prio: "},
