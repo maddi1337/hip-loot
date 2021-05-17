@@ -182,7 +182,7 @@ hip_loot_table = {
 {["loot_id"] = "23045", ["loot_name"] = "Shroud of Dominion", ["prio"] = " Prio: Ragefire(3) > Flüffel(7) > Blackthorn (7) > Seyt(9) > Maddi(9) > "},
 {["loot_id"] = "23040", ["loot_name"] = "Glyph of Deflection", ["prio"] = " Prio: Seyt > Toro/Para/methy > "},
 {["loot_id"] = "23047", ["loot_name"] = "Eye of the Dead", ["prio"] = " Prio: Tamatex > Para (2) > Ilarion (4) > Enymen (9) > Methy (12) > "},
-{["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Flüffel(4) > Hamma (3) > VodkaO (3) > Cammy (3) > "},
+{["loot_id"] = "23041", ["loot_name"] = "Slayer's Crest", ["prio"] = " Prio: Flüffel(4) > VodkaO (3) > Cammy (3) > "},
 {["loot_id"] = "23046", ["loot_name"] = "The Restrained Essence of Sapphiron", ["prio"] = " Prio: Phizzy (6) > Hankmoody (6) > Greun (8) > Keepsmile > "},
 {["loot_id"] = "23049", ["loot_name"] = "Sapphiron's Left Eye", ["prio"] = " Prio: Ilarion > Phizzy (6) > Ester (16) > Keepsmile > "},
 {["loot_id"] = "23048", ["loot_name"] = "Sapphiron's Right Eye", ["prio"] = " Prio: Rezzer (-) > Tamatex > Sakuura > "},
