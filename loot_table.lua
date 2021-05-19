@@ -142,7 +142,7 @@ hip_loot_table = {
 {["loot_id"] = "22808", ["loot_name"] = "The Castigator", ["prio"] = " Prio: Ragefire(2) > "},
 {["loot_id"] = "22801", ["loot_name"] = "Spire of Twilight", ["prio"] = " Prio: Random-Belohnung > "},
 {["loot_id"] = "23030", ["loot_name"] = "Cloak of the Scourge", ["prio"] = " Prio: "},
-{["loot_id"] = "23031", ["loot_name"] = "Band of the Inevitable", ["prio"] = " Prio: Ilarion > Enyman > Keepsmile > "},
+{["loot_id"] = "23031", ["loot_name"] = "Band of the Inevitable", ["prio"] = " Prio: Enyman > Keepsmile > "},
 {["loot_id"] = "23028", ["loot_name"] = "Hailstone Band", ["prio"] = " Prio: "},
 {["loot_id"] = "23029", ["loot_name"] = "Noth's Frigid Heart", ["prio"] = " Prio: If (14) > "},
 {["loot_id"] = "23006", ["loot_name"] = "Libram of Light", ["prio"] = " Prio: Methy (15) > "},
