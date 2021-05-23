@@ -131,7 +131,7 @@ hip_loot_table = {
 {["loot_id"] = "22810", ["loot_name"] = "Toxin Injector", ["prio"] = " Prio: "},
 {["loot_id"] = "22803", ["loot_name"] = "Midnight Haze", ["prio"] = " Prio: Nyveb > Random-Belohnung > "},
 {["loot_id"] = "22988", ["loot_name"] = "The End of Dreams", ["prio"] = " Prio: Keepsmile > Methy (-) > Random-Belohnung > "},
-{["loot_id"] = "22983", ["loot_name"] = "Rime Covered Mantle", ["prio"] = " Prio: Enyman > Keepsmile > Czm > Brainheal > "},
+{["loot_id"] = "22983", ["loot_name"] = "Rime Covered Mantle", ["prio"] = " Prio: Enyman > Keepsmile > Czm > "},
 {["loot_id"] = "22981", ["loot_name"] = "Gluth's Missing Collar", ["prio"] = " Prio: "},
 {["loot_id"] = "22994", ["loot_name"] = "Digested Hand of Power", ["prio"] = " Prio: Czm > "},
 {["loot_id"] = "23075", ["loot_name"] = "Death's Bargain", ["prio"] = " Prio: Para (-) > "},
